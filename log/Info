@@ -1,0 +1,215 @@
+INFO 2021-10-20 14:59:12 127.0.0.1  / GET None
+INFO 2021-10-20 14:59:13 127.0.0.1  /media/banner/202110/2.jpg GET None
+INFO 2021-10-20 14:59:13 127.0.0.1  /media/banner/202110/1.jpg GET None
+INFO 2021-10-20 14:59:13 127.0.0.1  /media/courses/2021/10/xdf3.jpg GET None
+INFO 2021-10-20 14:59:13 127.0.0.1  /favicon.ico GET None
+INFO 2021-10-20 14:59:16 127.0.0.1  /org/teacher/list/ GET None
+INFO 2021-10-20 14:59:18 127.0.0.1  /course/list/ GET None
+INFO 2021-10-20 14:59:19 127.0.0.1  /org/list/ GET None
+INFO 2021-10-20 14:59:19 127.0.0.1  /media/org/2021/10/xdf1.jpg GET None
+INFO 2021-10-20 14:59:19 127.0.0.1  /media/org/2021/10/xdf2.jpg GET None
+INFO 2021-10-20 14:59:44 127.0.0.1  /org/list/org-detail-homepage.html GET None
+INFO 2021-10-20 14:59:47 127.0.0.1  /org/list/org-detail-homepage.html GET None
+INFO 2021-10-20 14:59:59 127.0.0.1  /org/list/ GET None
+INFO 2021-10-20 15:00:00 127.0.0.1  /org/list/ GET None
+INFO 2021-10-20 15:00:01 127.0.0.1  / GET None
+INFO 2021-10-20 15:00:02 127.0.0.1  /course/list/ GET None
+INFO 2021-10-20 15:00:03 127.0.0.1  /org/teacher/list/ GET None
+INFO 2021-10-20 15:00:03 127.0.0.1  /course/list/ GET None
+INFO 2021-10-20 15:00:03 127.0.0.1  /org/list/ GET None
+INFO 2021-10-20 15:00:05 127.0.0.1  /course/list/ GET None
+INFO 2021-10-20 15:00:06 127.0.0.1  /course/list/ GET {"sort": "hot"}
+INFO 2021-10-20 15:00:07 127.0.0.1  /course/list/ GET {"sort": "students"}
+INFO 2021-10-20 15:00:07 127.0.0.1  /org/list/ GET None
+INFO 2021-10-20 15:00:10 127.0.0.1  /course/list/ GET None
+INFO 2021-10-20 15:00:11 127.0.0.1  /course/detail/1/ GET None
+INFO 2021-10-20 15:00:11 127.0.0.1  /media/image/default.png GET None
+INFO 2021-10-20 15:00:24 127.0.0.1  /course/info/1/ GET None
+INFO 2021-10-20 15:00:24 127.0.0.1  /login/ GET {"next": "/course/info/1/"}
+INFO 2021-10-20 15:00:37 127.0.0.1 akaduo /login/ POST {"csrfmiddlewaretoken": "j9HtN1m93mdrPhxGXVwZV5JDYu6Bv2NhK9iLkIJICHA87EAZrTUFUplmOV9JF5nt", "username": "akaduo", "password": "akaduo123"}
+INFO 2021-10-20 15:00:37 127.0.0.1 akaduo / GET None
+INFO 2021-10-20 15:00:37 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 15:00:37 127.0.0.1 akaduo /media/banner/202110/1.jpg GET None
+INFO 2021-10-20 15:00:37 127.0.0.1 akaduo /media/banner/202110/2.jpg GET None
+INFO 2021-10-20 15:00:37 127.0.0.1 akaduo /media/courses/2021/10/xdf3.jpg GET None
+INFO 2021-10-20 15:00:40 127.0.0.1 akaduo / GET None
+INFO 2021-10-20 15:00:40 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 15:00:40 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-10-20 15:00:40 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 15:00:41 127.0.0.1 akaduo /course/detail/1/ GET None
+INFO 2021-10-20 15:00:41 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 15:00:41 127.0.0.1 akaduo /media/org/2021/10/xdf1.jpg GET None
+INFO 2021-10-20 15:00:45 127.0.0.1 akaduo /org/add_fav/ POST {"fav_id": "1", "fav_type": "1"}
+INFO 2021-10-20 15:00:54 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 15:00:55 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 15:00:55 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 15:00:55 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 15:00:55 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 15:00:55 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 15:00:55 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 15:00:55 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 15:00:55 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 15:00:55 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 15:00:55 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 15:01:02 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 15:01:14 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 15:02:09 127.0.0.1 akaduo / GET None
+INFO 2021-10-20 15:02:09 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 16:22:20 127.0.0.1 akaduo / GET None
+INFO 2021-10-20 16:22:20 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:08:17 127.0.0.1 akaduo / GET None
+INFO 2021-10-20 17:08:17 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:08:17 127.0.0.1 akaduo /favicon.ico GET None
+INFO 2021-10-20 17:23:44 127.0.0.1 akaduo / GET None
+INFO 2021-10-20 17:23:44 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:23:44 127.0.0.1 akaduo /favicon.ico GET None
+INFO 2021-10-20 17:23:46 127.0.0.1 akaduo / GET None
+INFO 2021-10-20 17:23:46 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:23:46 127.0.0.1 akaduo /media/banner/202110/2.jpg GET None
+INFO 2021-10-20 17:23:46 127.0.0.1 akaduo /media/banner/202110/1.jpg GET None
+INFO 2021-10-20 17:23:54 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-10-20 17:23:55 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:23:57 127.0.0.1 akaduo /course/list/ GET {"sort": "hot"}
+INFO 2021-10-20 17:23:57 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:23:58 127.0.0.1 akaduo /course/list/ GET {"sort": ""}
+INFO 2021-10-20 17:23:58 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:24:02 127.0.0.1 akaduo / GET None
+INFO 2021-10-20 17:24:02 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:24:47 127.0.0.1 akaduo /xadmin/ GET None
+INFO 2021-10-20 17:24:54 127.0.0.1 akaduo /xadmin/ GET None
+INFO 2021-10-20 17:24:54 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:25:15 127.0.0.1 akaduo /xadmin/organization/courseorg/ GET None
+INFO 2021-10-20 17:25:15 127.0.0.1 akaduo /xadmin/organization/citydict/ GET None
+INFO 2021-10-20 17:25:15 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:25:16 127.0.0.1 akaduo /xadmin/organization/citydict/ GET None
+INFO 2021-10-20 17:25:16 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:25:16 127.0.0.1 akaduo /xadmin/organization/citydict/ GET None
+INFO 2021-10-20 17:25:17 127.0.0.1 akaduo /xadmin/organization/citydict/ GET None
+INFO 2021-10-20 17:25:17 127.0.0.1 akaduo /xadmin/organization/courseorg/ GET None
+INFO 2021-10-20 17:25:17 127.0.0.1 akaduo /xadmin/organization/courseorg/ GET None
+INFO 2021-10-20 17:25:17 127.0.0.1 akaduo /xadmin/organization/courseorg/ GET None
+INFO 2021-10-20 17:25:18 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:25:21 127.0.0.1 akaduo /xadmin/course/bannercourse/ GET None
+INFO 2021-10-20 17:25:21 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:25:22 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-10-20 17:25:22 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:25:24 127.0.0.1 akaduo /xadmin/course/lesson/ GET None
+INFO 2021-10-20 17:25:25 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:25:25 127.0.0.1 akaduo /xadmin/course/bannercourse/ GET None
+INFO 2021-10-20 17:25:25 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:25:32 127.0.0.1 akaduo /xadmin/course/bannercourse/ GET None
+INFO 2021-10-20 17:25:32 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:25:36 127.0.0.1 akaduo / GET None
+INFO 2021-10-20 17:25:36 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:25:37 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-10-20 17:25:37 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:25:41 127.0.0.1 akaduo /course/detail/1/ GET None
+INFO 2021-10-20 17:25:41 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:25:45 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 17:25:45 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 17:25:45 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 17:25:46 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 17:25:46 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 17:25:50 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 17:26:05 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-10-20 17:26:14 127.0.0.1 akaduo /org/teacher/list/ GET None
+INFO 2021-10-20 17:26:14 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:26:14 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-10-20 17:26:14 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:26:15 127.0.0.1 akaduo /org/teacher/list/ GET None
+INFO 2021-10-20 17:26:15 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:26:15 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-10-20 17:26:15 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:26:25 127.0.0.1 akaduo /org/list/ GET None
+INFO 2021-10-20 17:26:25 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:26:26 127.0.0.1 akaduo /media/org/2021/10/xdf2.jpg GET None
+INFO 2021-10-20 17:26:31 127.0.0.1 akaduo /org/teacher/list/ GET None
+INFO 2021-10-20 17:26:31 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:26:32 127.0.0.1 akaduo /org/list/ GET None
+INFO 2021-10-20 17:26:32 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:26:48 127.0.0.1 akaduo /diary/19/ GET None
+INFO 2021-10-20 17:27:03 127.0.0.1 akaduo /org/teacher/list/ GET None
+INFO 2021-10-20 17:27:03 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:27:03 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-10-20 17:27:03 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:27:06 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-10-20 17:27:06 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:27:07 127.0.0.1 akaduo /course/list/ GET {"sort": "hot"}
+INFO 2021-10-20 17:27:08 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:27:08 127.0.0.1 akaduo /course/list/ GET {"sort": ""}
+INFO 2021-10-20 17:27:08 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:27:27 127.0.0.1 akaduo /xadmin/xadmin/log/ GET None
+INFO 2021-10-20 17:27:27 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:27:31 127.0.0.1 akaduo /xadmin/auth/permission/ GET None
+INFO 2021-10-20 17:27:32 127.0.0.1 akaduo /xadmin/auth/group/ GET None
+INFO 2021-10-20 17:27:32 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:28:52 127.0.0.1 akaduo /xadmin/xadmin/log/ GET None
+INFO 2021-10-20 17:28:53 127.0.0.1 akaduo /xadmin/course/bannercourse/ GET None
+INFO 2021-10-20 17:28:54 127.0.0.1 akaduo /xadmin/course/lesson/ GET None
+INFO 2021-10-20 17:28:54 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:28:55 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-10-20 17:28:55 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:28:55 127.0.0.1 akaduo /xadmin/course/bannercourse/ GET None
+INFO 2021-10-20 17:28:56 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:28:56 127.0.0.1 akaduo /xadmin/organization/courseorg/ GET None
+INFO 2021-10-20 17:28:56 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:28:57 127.0.0.1 akaduo /xadmin/organization/citydict/ GET None
+INFO 2021-10-20 17:28:57 127.0.0.1 akaduo /xadmin/organization/courseorg/ GET None
+INFO 2021-10-20 17:28:57 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:28:58 127.0.0.1 akaduo /xadmin/ GET None
+INFO 2021-10-20 17:28:58 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:28:58 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:28:58 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:01 127.0.0.1 akaduo /course/detail/1/ GET None
+INFO 2021-10-20 17:29:01 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:07 127.0.0.1 akaduo /org/teacher/list/ GET None
+INFO 2021-10-20 17:29:07 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:08 127.0.0.1 akaduo /org/list/ GET None
+INFO 2021-10-20 17:29:08 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:29 127.0.0.1 akaduo /org/teacher/list/ GET None
+INFO 2021-10-20 17:29:29 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:30 127.0.0.1 akaduo /org/list/ GET None
+INFO 2021-10-20 17:29:30 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:31 127.0.0.1 akaduo /org/teacher/list/ GET None
+INFO 2021-10-20 17:29:31 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:32 127.0.0.1 akaduo /org/teacher/list/ GET {"sort": "hot"}
+INFO 2021-10-20 17:29:32 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:32 127.0.0.1 akaduo /org/teacher/list/ GET {"sort": "hot"}
+INFO 2021-10-20 17:29:32 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:33 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-10-20 17:29:33 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:34 127.0.0.1 akaduo /course/detail/1/ GET None
+INFO 2021-10-20 17:29:34 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:35 127.0.0.1 akaduo / GET None
+INFO 2021-10-20 17:29:35 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:36 127.0.0.1 akaduo /org/teacher/list/ GET None
+INFO 2021-10-20 17:29:36 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:37 127.0.0.1 akaduo /org/list/ GET None
+INFO 2021-10-20 17:29:37 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:39 127.0.0.1 akaduo /users/info/ GET None
+INFO 2021-10-20 17:29:39 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:40 127.0.0.1 akaduo /captcha/image/5f3c00e47fb1be12d2fd15b9a860711597721b3f/ GET None
+INFO 2021-10-20 17:29:41 127.0.0.1 akaduo /users/mycourse/ GET None
+INFO 2021-10-20 17:29:41 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:42 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-10-20 17:29:42 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:43 127.0.0.1 akaduo /users/my_message/ GET None
+INFO 2021-10-20 17:29:43 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:43 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-10-20 17:29:43 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:44 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-10-20 17:29:44 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:44 127.0.0.1 akaduo /users/mycourse/ GET None
+INFO 2021-10-20 17:29:44 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:44 127.0.0.1 akaduo /users/info/ GET None
+INFO 2021-10-20 17:29:44 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:29:45 127.0.0.1 akaduo /users/info/ GET None
+INFO 2021-10-20 17:29:45 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-10-20 17:30:00 127.0.0.1 akaduo /xadmin/operation/userask/ GET None
+INFO 2021-10-20 17:30:00 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-10-20 17:30:02 127.0.0.1 akaduo /xadmin/organization/citydict/ GET None
+INFO 2021-10-20 17:30:02 127.0.0.1 akaduo /xadmin/organization/citydict/ GET None
+INFO 2021-10-20 17:30:03 127.0.0.1 akaduo /xadmin/organization/courseorg/ GET None
+INFO 2021-10-20 17:30:03 127.0.0.1 akaduo /xadmin/organization/courseorg/ GET None
+INFO 2021-10-20 17:30:03 127.0.0.1 akaduo /xadmin/organization/courseorg/ GET None
+INFO 2021-10-20 17:30:04 127.0.0.1 akaduo /xadmin/jsi18n/ GET None

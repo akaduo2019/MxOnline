@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d2c46b57-79c5-4747-88ed-f77fbd0cc233" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +151,7 @@
       <workItem from="1634721817078" duration="926000" />
       <workItem from="1635072549892" duration="159000" />
       <workItem from="1635089353795" duration="25000" />
+      <workItem from="1635580150686" duration="5595000" />
     </task>
     <servers />
   </component>
@@ -214,11 +216,11 @@
       <screen x="0" y="0" width="1986" height="1152" />
     </state>
     <state x="986" y="0" width="1006" height="1158" key="dock-window-2/0.0.1986.1152@0.0.1986.1152" timestamp="1634293032958" />
-    <state x="726" y="220" width="587" height="601" key="find.popup" timestamp="1634722118664">
-      <screen x="0" y="0" width="1474" height="864" />
+    <state x="978" y="293" width="735" height="801" key="find.popup" timestamp="1635580275148">
+      <screen x="0" y="0" width="1986" height="1152" />
     </state>
     <state x="726" y="220" width="587" height="601" key="find.popup/0.0.1474.864@0.0.1474.864" timestamp="1634722118664" />
-    <state x="978" y="293" width="735" height="801" key="find.popup/0.0.1986.1152@0.0.1986.1152" timestamp="1634358368484" />
+    <state x="978" y="293" width="735" height="801" key="find.popup/0.0.1986.1152@0.0.1986.1152" timestamp="1635580275148" />
     <state x="1034" y="428" width="672" height="678" key="search.everywhere.popup" timestamp="1634306573856">
       <screen x="0" y="0" width="1986" height="1152" />
     </state>

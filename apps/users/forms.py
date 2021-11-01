@@ -15,7 +15,8 @@ class LoginForm(forms.Form):
 class RegisterForm(forms.Form):
     '''注册验证表单'''
 
-    email = forms.EmailField(required=True)
+    # email = forms.EmailField(required=True)
+    email = forms.CharField(required=True)
     password = forms.CharField(required=True,min_length=5)
     # 验证码
     captcha = CaptchaField(error_messages={'invalid':'验证码错误'})

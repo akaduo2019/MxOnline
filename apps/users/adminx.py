@@ -2,7 +2,8 @@
 
 import xadmin
 
-from .models import EmailVerifyRecord,Banner
+# from .models import EmailVerifyRecord,Banner
+from .models import Banner
 from xadmin import views
 
 
@@ -22,14 +23,14 @@ class GlobalSettings(object):
     menu_style = 'accordion'
 
 # xadmin中这里是继承object，不再是继承admin
-# 邮箱验证码管理
-class EmailVerifyRecordAdmin(object):
-    # 显示的列
-    list_display = ['code', 'email', 'send_type', 'send_time']
-    # 搜索的字段
-    search_fields = ['code', 'email', 'send_type']
-    # 过滤
-    list_filter = ['code', 'email', 'send_type', 'send_time']
+# # 邮箱验证码管理
+# class EmailVerifyRecordAdmin(object):
+#     # 显示的列
+#     list_display = ['code', 'email', 'send_type', 'send_time']
+#     # 搜索的字段
+#     search_fields = ['code', 'email', 'send_type']
+#     # 过滤
+#     list_filter = ['code', 'email', 'send_type', 'send_time']
 
 # 轮播图管理
 class BannerAdmin(object):
@@ -38,7 +39,7 @@ class BannerAdmin(object):
     list_filter = ['title', 'image', 'url', 'index', 'add_time']
 
 
-xadmin.site.register(EmailVerifyRecord, EmailVerifyRecordAdmin)
+# xadmin.site.register(EmailVerifyRecord, EmailVerifyRecordAdmin)
 xadmin.site.register(Banner, BannerAdmin)
 
 # 将基本配置管理与view绑定

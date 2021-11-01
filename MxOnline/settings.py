@@ -202,12 +202,12 @@ AUTH_PASSWORD_VALIDATORS = [
 
 # 发送邮箱
 
-EMAIL_HOST = "smtp.qq.com"
-EMAIL_PORT = 25
-EMAIL_HOST_USER = "1360189116@qq.com"
-EMAIL_HOST_PASSWORD = "mjsepvkwanclhjfe"
-EMAIL_USE_TLS = True
-EMAIL_FROM = "1360189116@qq.com"
+# EMAIL_HOST = "smtp.qq.com"
+# EMAIL_PORT = 25
+# EMAIL_HOST_USER = "1360189116@qq.com"
+# EMAIL_HOST_PASSWORD = ""
+# EMAIL_USE_TLS = True
+# EMAIL_FROM = "1360189116@qq.com"
 
 
 # Internationalization
@@ -230,7 +230,7 @@ AUTH_USER_MODEL = 'users.UserProfile'
 
 STATIC_URL = '/static/'
 STATICFILES_DIRS = (
-    os.path.join(BASE_DIR,'static'),
+    os.path.join(BASE_DIR, 'static'),
 )
 
 
@@ -238,8 +238,6 @@ STATICFILES_DIRS = (
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')   # 指定根目录
 
-#静态文件
-# STATICFILES_ROOT = os.path.join(BASE_DIR, 'static')
 
 
 

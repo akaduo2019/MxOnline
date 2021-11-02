@@ -232,7 +232,6 @@ class UserinfoView(LoginRequiredMixin, View):
     #         return HttpResponse(json.dumps(user_info_form.errors), content_type='application/json')
 
 
-
 class UploadImageView(LoginRequiredMixin,View):
     '''用户图像修改'''
     def post(self,request):
@@ -279,7 +278,6 @@ class UpdatePwdView(View):
 #         return HttpResponse('{"status":"success"}', content_type='application/json')
 
 
-
 # class UpdateEmailView(LoginRequiredMixin, View):
 #     '''修改邮箱'''
 #     def post(self, request):
@@ -294,7 +292,6 @@ class UpdatePwdView(View):
 #             return HttpResponse('{"status":"success"}', content_type='application/json')
 #         else:
 #             return HttpResponse('{"email":"验证码无效"}', content_type='application/json')
-
 
 class MyCourseView(LoginRequiredMixin, View):
     '''我的课程'''

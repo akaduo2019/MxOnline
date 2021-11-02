@@ -44,13 +44,14 @@
     <div id="main">
 
         <div class="course-info-main clearfix w has-progress">
-            <div style="width:1200px;height: 650px; margin-left:100px">
-                <video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" width="1200"
-                       poster="http://video-js.zencoder.com/oceans-clip.png"
-                       data-setup="" type="video/mp4">
-                    <source src="{{ video.url }}">
-                </video>
-            </div>
+{#            <div style="width:1200px;height: 650px; margin-left:100px">#}
+{#                <video id="example_video_1" class="video-js vjs-default-skin" controls preload="none" width="1200"#}
+{#                       poster="http://video-js.zencoder.com/oceans-clip.png"#}
+{#                       data-setup="" type="video/mp4">#}
+{#                    <source src="{{ video.url }}">#}
+{#                </video>#}
+{#                <iframe src="https://docs.zohopublic.com.cn/file/41qmpbef048081a104d469ec81a13da65607a" width="1000" height="650"></iframe>#}
+{#            </div>#}
             <div class="info-bar clearfix">
                 <div class="content-wrap clearfix">
                     <div class="content">
@@ -62,10 +63,10 @@
                                        href="{% url 'course:course_comments' course.id %}"><span>评论</span></a></li>
                             </ul>
                         </div>
-                        <div id="notice" class="clearfix">
-                            <div class="l"><strong>课程公告:</strong> <a
-                                    href="javascript:void(0)">Spring的文档以及相关的jar文件已上传</a></div>
-                        </div>
+{#                        <div id="notice" class="clearfix">#}
+{#                            <div class="l"><strong>课程公告:</strong> <a#}
+{#                                    href="javascript:void(0)">Spring的文档以及相关的jar文件已上传</a></div>#}
+{#                        </div>#}
 
                         <div class="mod-chapters">
                             {% for lesson in course.lesson_set.get_queryset %}

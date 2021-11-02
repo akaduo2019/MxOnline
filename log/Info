@@ -1,114 +1,16 @@
-INFO 2021-10-31 23:46:19 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "jiogtoBtOocIxHTsLYx5HG0S9EUZm6ERAN5PminsKJ62UtuvHcjzCfOk6LvqUn0K"}
-INFO 2021-10-31 23:46:19 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "jiogtoBtOocIxHTsLYx5HG0S9EUZm6ERAN5PminsKJ62UtuvHcjzCfOk6LvqUn0K"}
-INFO 2021-10-31 23:46:19 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "jiogtoBtOocIxHTsLYx5HG0S9EUZm6ERAN5PminsKJ62UtuvHcjzCfOk6LvqUn0K"}
-INFO 2021-10-31 23:52:18 127.0.0.1 B19030929 /users/info/ GET None
-INFO 2021-10-31 23:52:18 127.0.0.1 B19030929 /media/image/202110/QQ图片20200918124959.jpg GET None
-INFO 2021-10-31 23:52:19 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "jGyt3kFM7c7PrV6dCSl4oAqAcRYijXU8Abf2WerL3x19OHHgy67yj9e29YzJReg1"}
-INFO 2021-10-31 23:52:19 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "jGyt3kFM7c7PrV6dCSl4oAqAcRYijXU8Abf2WerL3x19OHHgy67yj9e29YzJReg1"}
-INFO 2021-10-31 23:52:19 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "jGyt3kFM7c7PrV6dCSl4oAqAcRYijXU8Abf2WerL3x19OHHgy67yj9e29YzJReg1"}
-INFO 2021-10-31 23:52:23 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "jGyt3kFM7c7PrV6dCSl4oAqAcRYijXU8Abf2WerL3x19OHHgy67yj9e29YzJReg1"}
-INFO 2021-10-31 23:52:23 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "jGyt3kFM7c7PrV6dCSl4oAqAcRYijXU8Abf2WerL3x19OHHgy67yj9e29YzJReg1"}
-INFO 2021-10-31 23:52:23 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "jGyt3kFM7c7PrV6dCSl4oAqAcRYijXU8Abf2WerL3x19OHHgy67yj9e29YzJReg1"}
-INFO 2021-10-31 23:52:29 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "jGyt3kFM7c7PrV6dCSl4oAqAcRYijXU8Abf2WerL3x19OHHgy67yj9e29YzJReg1"}
-INFO 2021-10-31 23:52:29 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "jGyt3kFM7c7PrV6dCSl4oAqAcRYijXU8Abf2WerL3x19OHHgy67yj9e29YzJReg1"}
-INFO 2021-10-31 23:54:16 127.0.0.1  /logout/ GET None
-INFO 2021-10-31 23:54:16 127.0.0.1  / GET None
-INFO 2021-10-31 23:54:16 127.0.0.1  /media/banner/202110/1.jpg GET None
-INFO 2021-10-31 23:54:16 127.0.0.1  /media/banner/202110/2.jpg GET None
-INFO 2021-10-31 23:54:16 127.0.0.1  /media/courses/2021/10/xdf3.jpg GET None
-INFO 2021-10-31 23:54:17 127.0.0.1  /login/ GET None
-INFO 2021-10-31 23:54:18 127.0.0.1  /login/ POST {"csrfmiddlewaretoken": "j5UD9VGDx9FkKJTxjeFkHdDtnhmwirXtAABc2PsCtuzE7vuAfsrOCMrVkoXXQIjm", "username": "", "password": ""}
-INFO 2021-10-31 23:58:44 127.0.0.1 B19030929 /login/ POST {"csrfmiddlewaretoken": "IgyPV82B7AAcdrfrkcx6hGklKuCXOoMDZLfoO2OA3VuwAdQugqjAcf8NHBdomF8w", "username": "B19030929", "password": "123456"}
-INFO 2021-10-31 23:58:45 127.0.0.1 B19030929 / GET None
-INFO 2021-10-31 23:58:45 127.0.0.1 B19030929 /media/image/202110/QQ图片20200918124959.jpg GET None
-INFO 2021-10-31 23:58:45 127.0.0.1 B19030929 /media/banner/202110/1.jpg GET None
-INFO 2021-10-31 23:58:45 127.0.0.1 B19030929 /media/banner/202110/2.jpg GET None
-INFO 2021-10-31 23:58:45 127.0.0.1 B19030929 /media/courses/2021/10/xdf3.jpg GET None
-INFO 2021-10-31 23:58:47 127.0.0.1 B19030929 /users/info/ GET None
-INFO 2021-10-31 23:58:47 127.0.0.1 B19030929 /captcha/image/5f3c00e47fb1be12d2fd15b9a860711597721b3f/ GET None
-INFO 2021-10-31 23:59:39 127.0.0.1 B19030929 /users/info/ GET None
-INFO 2021-11-01 00:01:28 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "sqURt1hOdq8bRHmvMxBzZil9UaxSbRj2yDU5rg77DDSJD848Bst1II3GWkRUJKqM"}
-INFO 2021-11-01 00:01:28 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "sqURt1hOdq8bRHmvMxBzZil9UaxSbRj2yDU5rg77DDSJD848Bst1II3GWkRUJKqM"}
-INFO 2021-11-01 00:01:28 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "sqURt1hOdq8bRHmvMxBzZil9UaxSbRj2yDU5rg77DDSJD848Bst1II3GWkRUJKqM"}
-INFO 2021-11-01 00:01:29 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "sqURt1hOdq8bRHmvMxBzZil9UaxSbRj2yDU5rg77DDSJD848Bst1II3GWkRUJKqM"}
-INFO 2021-11-01 00:01:29 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "sqURt1hOdq8bRHmvMxBzZil9UaxSbRj2yDU5rg77DDSJD848Bst1II3GWkRUJKqM"}
-INFO 2021-11-01 00:01:31 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "sqURt1hOdq8bRHmvMxBzZil9UaxSbRj2yDU5rg77DDSJD848Bst1II3GWkRUJKqM"}
-INFO 2021-11-01 00:01:34 127.0.0.1 B19030929 /users/info/ GET None
-INFO 2021-11-01 00:01:40 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "CdSWisH7zhdMybQH7rnN3X1tmVrKWIGPIqSagHxqZuXkkCykWmffMnJ0o5LMuBNz"}
-INFO 2021-11-01 00:01:41 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "CdSWisH7zhdMybQH7rnN3X1tmVrKWIGPIqSagHxqZuXkkCykWmffMnJ0o5LMuBNz"}
-INFO 2021-11-01 00:01:42 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "CdSWisH7zhdMybQH7rnN3X1tmVrKWIGPIqSagHxqZuXkkCykWmffMnJ0o5LMuBNz"}
-INFO 2021-11-01 00:01:43 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "CdSWisH7zhdMybQH7rnN3X1tmVrKWIGPIqSagHxqZuXkkCykWmffMnJ0o5LMuBNz"}
-INFO 2021-11-01 00:01:55 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "CdSWisH7zhdMybQH7rnN3X1tmVrKWIGPIqSagHxqZuXkkCykWmffMnJ0o5LMuBNz"}
-INFO 2021-11-01 00:01:55 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "CdSWisH7zhdMybQH7rnN3X1tmVrKWIGPIqSagHxqZuXkkCykWmffMnJ0o5LMuBNz"}
-INFO 2021-11-01 00:01:56 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "CdSWisH7zhdMybQH7rnN3X1tmVrKWIGPIqSagHxqZuXkkCykWmffMnJ0o5LMuBNz"}
-INFO 2021-11-01 00:01:56 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "CdSWisH7zhdMybQH7rnN3X1tmVrKWIGPIqSagHxqZuXkkCykWmffMnJ0o5LMuBNz"}
-INFO 2021-11-01 00:01:56 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "CdSWisH7zhdMybQH7rnN3X1tmVrKWIGPIqSagHxqZuXkkCykWmffMnJ0o5LMuBNz"}
-INFO 2021-11-01 00:01:56 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "CdSWisH7zhdMybQH7rnN3X1tmVrKWIGPIqSagHxqZuXkkCykWmffMnJ0o5LMuBNz"}
-INFO 2021-11-01 00:01:57 127.0.0.1 B19030929 /users/info/ GET None
-INFO 2021-11-01 00:02:00 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "uvPY4gu7G7GG8DPMOIZzox50HE6soGSKAIPc2vkq6kqeU4xpDDR17XNxJOquWzZu"}
-INFO 2021-11-01 00:02:01 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "uvPY4gu7G7GG8DPMOIZzox50HE6soGSKAIPc2vkq6kqeU4xpDDR17XNxJOquWzZu"}
-INFO 2021-11-01 00:02:01 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "uvPY4gu7G7GG8DPMOIZzox50HE6soGSKAIPc2vkq6kqeU4xpDDR17XNxJOquWzZu"}
-INFO 2021-11-01 00:02:01 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "uvPY4gu7G7GG8DPMOIZzox50HE6soGSKAIPc2vkq6kqeU4xpDDR17XNxJOquWzZu"}
-INFO 2021-11-01 00:02:09 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "uvPY4gu7G7GG8DPMOIZzox50HE6soGSKAIPc2vkq6kqeU4xpDDR17XNxJOquWzZu"}
-INFO 2021-11-01 00:02:11 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "uvPY4gu7G7GG8DPMOIZzox50HE6soGSKAIPc2vkq6kqeU4xpDDR17XNxJOquWzZu"}
-INFO 2021-11-01 00:02:11 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "uvPY4gu7G7GG8DPMOIZzox50HE6soGSKAIPc2vkq6kqeU4xpDDR17XNxJOquWzZu"}
-INFO 2021-11-01 00:02:11 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "uvPY4gu7G7GG8DPMOIZzox50HE6soGSKAIPc2vkq6kqeU4xpDDR17XNxJOquWzZu"}
-INFO 2021-11-01 00:02:11 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "uvPY4gu7G7GG8DPMOIZzox50HE6soGSKAIPc2vkq6kqeU4xpDDR17XNxJOquWzZu"}
-INFO 2021-11-01 00:02:12 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "uvPY4gu7G7GG8DPMOIZzox50HE6soGSKAIPc2vkq6kqeU4xpDDR17XNxJOquWzZu"}
-INFO 2021-11-01 00:02:24 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "uvPY4gu7G7GG8DPMOIZzox50HE6soGSKAIPc2vkq6kqeU4xpDDR17XNxJOquWzZu"}
-INFO 2021-11-01 00:02:24 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "uvPY4gu7G7GG8DPMOIZzox50HE6soGSKAIPc2vkq6kqeU4xpDDR17XNxJOquWzZu"}
-INFO 2021-11-01 00:02:26 127.0.0.1 B19030929 /users/info/ GET None
-INFO 2021-11-01 00:02:27 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "K2cZMqQ8CyB10Rna6VehhuuewAhHxtrkQfcdKFGr2LlzMi5NVQ6J0UcLyKBJ5my4"}
-INFO 2021-11-01 00:02:31 127.0.0.1 B19030929 /users/info/ GET None
-INFO 2021-11-01 00:02:32 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "xugKc7aV6nHpHfbVsBg0wxfGte5TpZX6DHgYam0ewArXtGTyhw8sfXXdvopVXS4Q"}
-INFO 2021-11-01 00:02:32 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "xugKc7aV6nHpHfbVsBg0wxfGte5TpZX6DHgYam0ewArXtGTyhw8sfXXdvopVXS4Q"}
-INFO 2021-11-01 00:02:32 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "xugKc7aV6nHpHfbVsBg0wxfGte5TpZX6DHgYam0ewArXtGTyhw8sfXXdvopVXS4Q"}
-INFO 2021-11-01 00:02:32 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "xugKc7aV6nHpHfbVsBg0wxfGte5TpZX6DHgYam0ewArXtGTyhw8sfXXdvopVXS4Q"}
-INFO 2021-11-01 00:02:33 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "xugKc7aV6nHpHfbVsBg0wxfGte5TpZX6DHgYam0ewArXtGTyhw8sfXXdvopVXS4Q"}
-INFO 2021-11-01 00:02:33 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "xugKc7aV6nHpHfbVsBg0wxfGte5TpZX6DHgYam0ewArXtGTyhw8sfXXdvopVXS4Q"}
-INFO 2021-11-01 00:09:16 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "xugKc7aV6nHpHfbVsBg0wxfGte5TpZX6DHgYam0ewArXtGTyhw8sfXXdvopVXS4Q"}
-INFO 2021-11-01 00:09:16 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "xugKc7aV6nHpHfbVsBg0wxfGte5TpZX6DHgYam0ewArXtGTyhw8sfXXdvopVXS4Q"}
-INFO 2021-11-01 00:09:16 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "xugKc7aV6nHpHfbVsBg0wxfGte5TpZX6DHgYam0ewArXtGTyhw8sfXXdvopVXS4Q"}
-INFO 2021-11-01 00:09:16 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "xugKc7aV6nHpHfbVsBg0wxfGte5TpZX6DHgYam0ewArXtGTyhw8sfXXdvopVXS4Q"}
-INFO 2021-11-01 00:11:53 127.0.0.1 B19030929 /users/info/ GET None
-INFO 2021-11-01 00:11:53 127.0.0.1 B19030929 /media/image/202110/QQ图片20200918124959.jpg GET None
-INFO 2021-11-01 00:11:56 127.0.0.1 B19030929 /users/info/ GET None
-INFO 2021-11-01 00:11:58 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "X6BaPnQdxDPJlReEMCSaOFqiesBoCiPN3jBoNCGwXQzh7iWhBxKCx58PgCVqabWx"}
-INFO 2021-11-01 00:11:58 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "X6BaPnQdxDPJlReEMCSaOFqiesBoCiPN3jBoNCGwXQzh7iWhBxKCx58PgCVqabWx"}
-INFO 2021-11-01 00:11:58 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "X6BaPnQdxDPJlReEMCSaOFqiesBoCiPN3jBoNCGwXQzh7iWhBxKCx58PgCVqabWx"}
-INFO 2021-11-01 00:12:07 127.0.0.1 B19030929 / GET None
-INFO 2021-11-01 00:12:16 127.0.0.1 B19030929 /users/info/ GET None
-INFO 2021-11-01 00:12:20 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "MTdPQCMNz0lY32PkTeQge1OPxD53stYuS6d3ORC6Zd5wPtxXI9IIXrwmzNp50m5e"}
-INFO 2021-11-01 00:12:21 127.0.0.1 B19030929 /users/info/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "MTdPQCMNz0lY32PkTeQge1OPxD53stYuS6d3ORC6Zd5wPtxXI9IIXrwmzNp50m5e"}
-INFO 2021-11-01 00:13:07 127.0.0.1 B19030929 /users/info/ GET None
-INFO 2021-11-01 00:13:08 127.0.0.1 B19030929 /media/image/202110/QQ图片20200918124959.jpg GET None
-INFO 2021-11-01 00:13:08 127.0.0.1 B19030929 /captcha/image/5f3c00e47fb1be12d2fd15b9a860711597721b3f/ GET None
-INFO 2021-11-01 00:13:08 127.0.0.1 B19030929 /favicon.ico GET None
-INFO 2021-11-01 00:13:41 127.0.0.1 B19030929 /users/info/ GET None
-INFO 2021-11-01 00:13:41 127.0.0.1 B19030929 /media/image/202110/QQ图片20200918124959.jpg GET None
-INFO 2021-11-01 00:13:41 127.0.0.1 B19030929 /captcha/image/5f3c00e47fb1be12d2fd15b9a860711597721b3f/ GET None
-INFO 2021-11-01 00:13:41 127.0.0.1 B19030929 /favicon.ico GET None
-INFO 2021-11-01 00:13:42 127.0.0.1 B19030929 /users/info/ GET None
-INFO 2021-11-01 00:13:42 127.0.0.1 B19030929 /media/image/202110/QQ图片20200918124959.jpg GET None
-INFO 2021-11-01 00:13:42 127.0.0.1 B19030929 /captcha/image/5f3c00e47fb1be12d2fd15b9a860711597721b3f/ GET None
-INFO 2021-11-01 00:13:42 127.0.0.1 B19030929 /favicon.ico GET None
-INFO 2021-11-01 00:13:42 127.0.0.1 B19030929 /users/info/ GET None
-INFO 2021-11-01 00:13:42 127.0.0.1 B19030929 /media/image/202110/QQ图片20200918124959.jpg GET None
-INFO 2021-11-01 00:13:42 127.0.0.1 B19030929 /captcha/image/5f3c00e47fb1be12d2fd15b9a860711597721b3f/ GET None
-INFO 2021-11-01 00:13:42 127.0.0.1 B19030929 /favicon.ico GET None
-INFO 2021-11-01 00:13:43 127.0.0.1 B19030929 /users/info/ GET None
-INFO 2021-11-01 00:13:43 127.0.0.1 B19030929 /media/image/202110/QQ图片20200918124959.jpg GET None
-INFO 2021-11-01 00:13:43 127.0.0.1 B19030929 /captcha/image/5f3c00e47fb1be12d2fd15b9a860711597721b3f/ GET None
-INFO 2021-11-01 00:13:43 127.0.0.1 B19030929 /favicon.ico GET None
-INFO 2021-11-01 00:13:44 127.0.0.1 B19030929 /users/update/pwd/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "CXx2ERlpMA2FBaMBBFRs46B64NdS8EyNIaxgC6bIcNMdnBueqAJUNwjD6XxUGxFx"}
-INFO 2021-11-01 00:13:50 127.0.0.1 B19030929 /users/update/pwd/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "CXx2ERlpMA2FBaMBBFRs46B64NdS8EyNIaxgC6bIcNMdnBueqAJUNwjD6XxUGxFx"}
-INFO 2021-11-01 00:13:50 127.0.0.1 B19030929 /users/update/pwd/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "CXx2ERlpMA2FBaMBBFRs46B64NdS8EyNIaxgC6bIcNMdnBueqAJUNwjD6XxUGxFx"}
-INFO 2021-11-01 00:14:04 127.0.0.1 B19030929 /users/update/pwd/ POST {"password1": "1234567", "password2": "1234567", "csrfmiddlewaretoken": "CXx2ERlpMA2FBaMBBFRs46B64NdS8EyNIaxgC6bIcNMdnBueqAJUNwjD6XxUGxFx"}
-INFO 2021-11-01 00:14:05 127.0.0.1  /users/info/ GET None
-INFO 2021-11-01 00:14:05 127.0.0.1  /login/ GET {"next": "/users/info/"}
-INFO 2021-11-01 00:14:15 127.0.0.1 B19030929 /login/ POST {"csrfmiddlewaretoken": "fbxX8XmgiDyFV4tJCK059C9BURqtRt5Kloxb6cczIQidHvbmrFSxS2R8W1Kvpmcu", "username": "B19030929", "password": "1234567"}
-INFO 2021-11-01 00:14:15 127.0.0.1 B19030929 / GET None
-INFO 2021-11-01 00:14:15 127.0.0.1 B19030929 /media/banner/202110/1.jpg GET None
-INFO 2021-11-01 00:14:15 127.0.0.1 B19030929 /media/image/202110/QQ图片20200918124959.jpg GET None
-INFO 2021-11-01 00:14:15 127.0.0.1 B19030929 /media/banner/202110/2.jpg GET None
-INFO 2021-11-01 00:14:15 127.0.0.1 B19030929 /media/courses/2021/10/xdf3.jpg GET None
+INFO 2021-11-02 20:53:37 127.0.0.1 akaduo /course/video/5/ GET None
+INFO 2021-11-02 20:53:37 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-02 21:14:15 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-11-02 21:14:15 127.0.0.1 akaduo /media/teacher/2021/11/胡歌.jpg GET None
+INFO 2021-11-02 21:14:15 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-02 21:14:15 127.0.0.1 akaduo /media/courses/2021/11/xdf2.jpg GET None
+INFO 2021-11-02 21:14:17 127.0.0.1 akaduo /course/video/5/ GET None
+INFO 2021-11-02 21:14:18 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-02 21:14:23 127.0.0.1 akaduo /course/video/4/ GET None
+INFO 2021-11-02 21:14:24 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-02 21:15:25 127.0.0.1 akaduo /course/video/4/ GET None
+INFO 2021-11-02 21:15:25 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-02 21:15:27 127.0.0.1 akaduo /course/video/5/ GET None
+INFO 2021-11-02 21:15:28 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-02 21:18:23 127.0.0.1 akaduo / GET None
+INFO 2021-11-02 21:18:24 127.0.0.1 akaduo /media/image/default.png GET None

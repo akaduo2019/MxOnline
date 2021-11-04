@@ -1,101 +1,58 @@
-$(function() {
-	/*index*/
-	$('.module3 .company').hover(function(){
-		$(this).find('.score').stop(true,true).fadeToggle(200);
-	});
+import Deck, { VERSION } from './reveal.js'
 
-	/*banner imgslide*/
-    var unslider = $('.imgslide').unslider({
-		speed: 500,               //  The speed to animate each slide (in milliseconds)
-		delay: 5000,              //  The delay between slide animations (in milliseconds)
-		complete: function() {},  //  A function that gets called after every slide animation
-		keys: true,               //  Enable keyboard (left, right) arrow shortcuts
-		dots: true,               //  Display dot navigation
-		fluid: false              //  Support responsive design. May break non-responsive designs
-	});
-    $('.unslider-arrow').click(function() {
-        var fn = this.className.split(' ')[1];
-        unslider.data('unslider')[fn]();
-    });
+/**
+ * Expose the Reveal class to the window. To create a
+ * new instance:
+ * let deck = new Reveal( document.querySelector( '.reveal' ), {
+ *   controls: false
+ * } );
+ * deck.initialize().then(() => {
+ *   // reveal.js is ready
+ * });
+ */
+let Reveal = Deck;
 
-    var unslider2 = $('.imgslide2').unslider({
-		speed: 500,              
-		complete: function() {},  
-		keys: true,               
-		dots: false,              
-		fluid: false             
-	});
-    $('.unslider-arrow2').click(function() {
-        var fn = this.className.split(' ')[1];
-        unslider2.data('unslider')[fn]();
-    });
 
-    var unslider3 = $('.imgslide3').unslider({
-		speed: 500,              
-		delay: 3000,             
-		complete: function() {}, 
-		keys: true,               
-		dots: true,              
-		fluid: false             
-	});
-    $('.unslider-arrow3').click(function() {
-        var fn = this.className.split(' ')[1];
-        unslider3.data('unslider')[fn]();
-    });
+/**
+ * The below is a thin shell that mimics the pre 4.0
+ * reveal.js API and ensures backwards compatibility.
+ * This API only allows for one Reveal instance per
+ * page, whereas the new API above lets you run many
+ * presentations on the same page.
+ *
+ * Reveal.initialize( { controls: false } ).then(() => {
+ *   // reveal.js is ready
+ * });
+ */
 
-    var unslider4 = $('.imgslide4').unslider({
-		speed: 500,               
-		delay: 3000,             
-		complete: function() {}, 
-		keys: true,               
-		dots: true,             
-		fluid: false             
-	});
-    $('.unslider-arrow4').click(function() {
-        var fn = this.className.split(' ')[1];
-        unslider4.data('unslider')[fn]();
-    });
+let enqueuedAPICalls = [];
 
-    var unslider5 = $('.imgslide5').unslider({
-		speed: 500,              
-		delay: 3000,              
-		complete: function() {},  
-		keys: true,               
-		dots: false,               
-		fluid: false             
-	});
-    $('.unslider-arrow5').click(function() {
-        var fn = this.className.split(' ')[1];
-        unslider5.data('unslider')[fn]();
-    });
+Reveal.initialize = options => {
 
-	$('.sec_top_li').on('click', function(){
-		var _self = $(this),
-			type = _self.attr('data-type'),
-			$secTips = $('#secTips');
-		$('#jsWantType').val(type);
-		_self.siblings().removeClass('on');
-		_self.addClass('on');
-		$('.index_ico_arrow').css('left', 38 + 77*$(this).index()+'px');
-		$('#jsDemandForm > #name').focus();
-		switch (type){
-			case '1':
-				$secTips.html('快速获取课程资讯信息');
-				break;
-			case '2':
-				$secTips.html('提交教师信息，快速获取教师资讯');
-				break;
-		}
-	});
+	// Create our singleton reveal.js instance
+	Object.assign( Reveal, new Deck( document.querySelector( '.reveal' ), options ) );
 
-    $('#jsDemandBtn').on('click', function(){
-        perfect_demand_form_submit({
-            jsPerfectSubmit: this,
-            jsPerfectForm: '#jsDemandForm',
-            jsPerfetTips:'#jsDemandTips',
-            isIndex: 'index'
-        });
-    });
+	// Invoke any enqueued API calls
+	enqueuedAPICalls.map( method => method( Reveal ) );
 
-});
+	return Reveal.initialize();
 
+}
+
+/**
+ * The pre 4.0 API let you add event listener before
+ * initializing. We maintain the same behavior by
+ * queuing up premature API calls and invoking all
+ * of them when Reveal.initialize is called.
+ */
+[ 'configure', 'on', 'off', 'addEventListener', 'removeEventListener', 'registerPlugin' ].forEach( method => {
+	Reveal[method] = ( ...args ) => {
+		enqueuedAPICalls.push( deck => deck[method].call( null, ...args ) );
+	}
+} );
+
+Reveal.isReady = () => false;
+
+Reveal.VERSION = VERSION;
+
+export default Reveal;

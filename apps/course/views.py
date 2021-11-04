@@ -179,7 +179,7 @@ class VideoPlayView(LoginRequiredMixin, View):
 
         # 资源
         all_resources = CourseResource.objects.filter(course=course)
-        return render(request,'course-play.html',{
+        return render(request,'course-play.html' ,{
             'course':course,
             'all_resources':all_resources,
             'relate_courses':relate_courses,

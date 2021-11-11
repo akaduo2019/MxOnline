@@ -55,7 +55,7 @@ LOGGING = {
                     'level': 'INFO',
                     'class': 'logging.handlers.RotatingFileHandler',
                     'filename': os.path.join(LOG_DIR, 'Info'),
-                    'maxBytes': 1024 * 1024 * 5,
+                    #'maxBytes': 1024 * 1024 * 5,
                     'backupCount': 5,
                     'encoding': 'utf-8',
                     'formatter': 'verbose'
@@ -64,7 +64,7 @@ LOGGING = {
                     'level': 'WARNING',  # 记录WARNING级别以上的报错信息
                     'class': 'logging.handlers.RotatingFileHandler',
                     'filename': os.path.join(LOG_DIR, 'Warning'),
-                    'maxBytes': 5 * 1024 * 1024,
+                    #'maxBytes': 5 * 1024 * 1024,
                     'backupCount': 5,
                     'formatter': 'verbose'
         }
@@ -134,7 +134,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 
     # 自定义
-    'midlog.LogMiddleware.OpLog_Mid'
+    'midlog.LogMiddleware.OpLog_Mid',
 ]
 
 ROOT_URLCONF = 'MxOnline.urls'

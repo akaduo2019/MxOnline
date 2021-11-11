@@ -179,9 +179,13 @@ class VideoPlayView(LoginRequiredMixin, View):
 
         # 资源
         all_resources = CourseResource.objects.filter(course=course)
+
+        # PPT数量
+        page = ['1','2','3','4','5']
         return render(request,'course-play.html' ,{
             'course':course,
             'all_resources':all_resources,
             'relate_courses':relate_courses,
             'video':video,
+            'page':page,
         })

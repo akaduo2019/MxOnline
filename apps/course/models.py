@@ -47,7 +47,7 @@ class Course(models.Model):
     def go_to(self):
         from django.utils.safestring import mark_safe
         # mark_safe后就不会转义
-        return mark_safe("<a href='https://home.cnblogs.com/u/derek1184405959/'>跳转</a>")
+        return mark_safe("<a href=''>跳转</a>")
     go_to.short_description = "跳转"
 
     def get_course_lesson(self):
@@ -106,11 +106,20 @@ class Video(models.Model):
 
 
 class CourseResource(models.Model):
+    # 让上传的文件路径动态地与name的名字有关
+    def get_photo_path(instance, filename):
+        return 'course/resource/%s/%s' % (instance.name, filename)
+
     course = models.ForeignKey(Course, verbose_name="课程", on_delete=models.CASCADE)
     name = models.CharField("名称", max_length=100)
-    download = models.FileField("资源文件", upload_to="course/resource/%Y/%m", max_length=100)
+    download = models.FileField("资源文件", upload_to=get_photo_path, max_length=100)
     add_time = models.DateTimeField("添加时间", default=datetime.now)
 
     class Meta:
         verbose_name = "课程资源"
         verbose_name_plural = verbose_name
+
+
+
+
+

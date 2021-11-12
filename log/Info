@@ -1,525 +1,647 @@
-INFO 2021-11-04 19:53:38 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-04 19:56:27 127.0.0.1 akaduo /users/info/ GET None
-INFO 2021-11-04 19:56:27 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-04 19:56:28 127.0.0.1 akaduo /captcha/image/5f3c00e47fb1be12d2fd15b9a860711597721b3f/ GET None
-INFO 2021-11-04 19:56:30 127.0.0.1 akaduo /users/update/pwd/ POST {"password1": "", "password2": "", "csrfmiddlewaretoken": "oijm3HHJ0wpiMQiWBeLmpnZaiGpE9ZjqKp8Y5JfFwh3z7jiixai0Ly0qaCMVUftQ"}
-INFO 2021-11-04 19:56:49 127.0.0.1  /logout/ GET None
-INFO 2021-11-04 19:56:49 127.0.0.1  /logout/ GET None
-INFO 2021-11-04 19:56:49 127.0.0.1  / GET None
-INFO 2021-11-04 19:56:49 127.0.0.1  /media/banner/202110/1.jpg GET None
-INFO 2021-11-04 19:56:49 127.0.0.1  /media/banner/202110/2.jpg GET None
-INFO 2021-11-04 19:56:49 127.0.0.1  /media/courses/2021/11/xdf2.jpg GET None
-INFO 2021-11-04 19:56:51 127.0.0.1  /course/list/ GET None
-INFO 2021-11-04 19:57:02 127.0.0.1  /course/detail/1/ GET None
-INFO 2021-11-04 19:57:02 127.0.0.1  /media/image/default.png GET None
-INFO 2021-11-04 19:57:02 127.0.0.1  /media/org/2021/10/xdf1.jpg GET None
-INFO 2021-11-04 19:57:07 127.0.0.1  /course/info/1/ GET None
-INFO 2021-11-04 19:57:07 127.0.0.1  /login/ GET {"next": "/course/info/1/"}
-INFO 2021-11-04 19:57:08 127.0.0.1  /login/ POST {"csrfmiddlewaretoken": "ucIFK3GvZhTISrTNi8zB5cZFenZ5SFo2QjxhM5erv2xZdUT9e46frn0V6jmmDVys", "username": "", "password": ""}
-INFO 2021-11-10 14:14:37 127.0.0.1  / GET None
-INFO 2021-11-10 14:14:38 127.0.0.1  /media/banner/202110/1.jpg GET None
-INFO 2021-11-10 14:14:38 127.0.0.1  /media/banner/202110/2.jpg GET None
-INFO 2021-11-10 14:14:38 127.0.0.1  /media/courses/2021/11/xdf2.jpg GET None
-INFO 2021-11-10 14:14:38 127.0.0.1  /favicon.ico GET None
-INFO 2021-11-10 14:14:39 127.0.0.1  /login/ GET None
-INFO 2021-11-10 14:19:46 127.0.0.1  / GET None
-INFO 2021-11-10 14:19:46 127.0.0.1  /favicon.ico GET None
-INFO 2021-11-10 14:19:47 127.0.0.1  /login/ GET None
-INFO 2021-11-10 14:19:53 127.0.0.1 akaduo /login/ POST {"csrfmiddlewaretoken": "ww3cZd9N5qUpqFavi8nUBkOX5ipvRAcjSDSO1fHJBbyGL8aRe4UyXvPdXeMMCQmJ", "username": "akaduo", "password": "akaduo123"}
-INFO 2021-11-10 14:19:54 127.0.0.1 akaduo / GET None
-INFO 2021-11-10 14:19:54 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:19:58 127.0.0.1 akaduo /course/list/ GET None
-INFO 2021-11-10 14:19:58 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:19:59 127.0.0.1 akaduo /course/detail/1/ GET None
-INFO 2021-11-10 14:19:59 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:19:59 127.0.0.1 akaduo /media/org/2021/10/xdf1.jpg GET None
-INFO 2021-11-10 14:20:01 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 14:20:02 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:20:02 127.0.0.1 akaduo /media/teacher/2021/11/胡歌.jpg GET None
-INFO 2021-11-10 14:20:03 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:20:03 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:20:03 127.0.0.1 akaduo /media/courses/2021/11/xdf2.jpg GET None
-INFO 2021-11-10 14:26:04 127.0.0.1 akaduo / GET None
-INFO 2021-11-10 14:26:04 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:26:04 127.0.0.1 akaduo /media/banner/202110/1.jpg GET None
-INFO 2021-11-10 14:26:04 127.0.0.1 akaduo /media/banner/202110/2.jpg GET None
-INFO 2021-11-10 14:26:06 127.0.0.1 akaduo /course/list/ GET None
-INFO 2021-11-10 14:26:06 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:26:08 127.0.0.1 akaduo /course/detail/1/ GET None
-INFO 2021-11-10 14:26:08 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:26:09 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 14:26:09 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:26:12 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 14:26:12 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:26:14 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:26:14 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:27:42 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:27:42 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:27:45 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:27:46 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:27:47 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:28:04 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:28:05 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:28:05 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:28:22 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:28:22 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:28:22 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:28:26 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:28:27 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:28:28 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:28:28 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:28:28 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:28:30 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:28:30 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:28:35 127.0.0.1 akaduo /course/comment/1/ GET None
-INFO 2021-11-10 14:28:36 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:28:37 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 14:28:38 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:28:40 127.0.0.1 akaduo /course/video/4/ GET None
-INFO 2021-11-10 14:28:40 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:29:08 127.0.0.1 akaduo /course/video/4/ GET None
-INFO 2021-11-10 14:29:08 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:29:13 127.0.0.1 akaduo /course/comment/1/ GET None
-INFO 2021-11-10 14:29:13 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:29:15 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 14:29:15 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:29:16 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:29:17 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:29:28 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 14:29:28 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:29:29 127.0.0.1 akaduo /course/comment/1/ GET None
-INFO 2021-11-10 14:29:29 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:29:31 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 14:29:31 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:30:05 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:30:05 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:30:06 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:30:07 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:30:08 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:30:12 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:30:13 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:30:13 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:30:32 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:31:19 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:31:23 127.0.0.1 akaduo /course/video/4/ GET None
-INFO 2021-11-10 14:31:24 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:31:28 127.0.0.1 akaduo /course/video/4/ POST None
-INFO 2021-11-10 14:33:41 127.0.0.1 akaduo /course/video/4/ GET None
-INFO 2021-11-10 14:33:41 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:35:31 127.0.0.1 akaduo /course/video/4/ GET None
-INFO 2021-11-10 14:35:31 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:35:32 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:35:32 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:35:57 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:35:57 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:36:05 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:36:05 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:37:01 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:37:02 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:37:04 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:37:04 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:37:11 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:37:11 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:38:33 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:38:33 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:38:41 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:38:42 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:38:48 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:38:48 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:38:48 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:38:50 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:38:50 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:38:50 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:39:03 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:39:03 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:39:05 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:39:05 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:39:55 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:39:55 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:39:57 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:39:58 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:40:10 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:40:10 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:40:11 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:40:12 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:40:12 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:40:20 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:40:21 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:40:21 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:40:35 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:40:36 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:40:36 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:40:39 127.0.0.1 akaduo /course/comment/1/ GET None
-INFO 2021-11-10 14:40:39 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 14:40:40 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:40:41 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 14:40:41 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:43:26 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 14:43:27 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:43:30 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:43:31 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:43:36 127.0.0.1 akaduo /course/comment/1/ GET None
-INFO 2021-11-10 14:43:36 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:43:37 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 14:43:37 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:44:17 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 14:44:17 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:44:43 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:44:43 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:44:53 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:44:54 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:44:55 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:44:56 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:45:01 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:45:02 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:45:02 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:45:03 127.0.0.1 akaduo /course/video/4/ GET None
-INFO 2021-11-10 14:45:03 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:45:05 127.0.0.1 akaduo /course/comment/1/ GET None
-INFO 2021-11-10 14:45:05 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:45:07 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 14:45:07 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:45:08 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:45:09 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:45:25 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:45:26 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:45:28 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:45:29 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:45:29 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:45:29 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:45:54 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:45:55 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:45:58 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:45:58 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:46:54 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:46:54 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:46:56 127.0.0.1 akaduo /course/comment/1/ GET None
-INFO 2021-11-10 14:46:57 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:46:58 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 14:46:58 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:47:10 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 14:47:11 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:47:12 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 14:47:13 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 14:47:17 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:47:25 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:47:30 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:47:31 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:48:24 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:48:26 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:03 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:04 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:05 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:06 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:07 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:07 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:21 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:40 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:41 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:42 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:42 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:43 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:43 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:43 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:44 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:44 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:44 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:46 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:46 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 14:49:47 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:06:04 127.0.0.1 akaduo / GET None
-INFO 2021-11-10 23:06:04 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:06:05 127.0.0.1 akaduo /course/list/ GET None
-INFO 2021-11-10 23:06:05 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:06:07 127.0.0.1 akaduo /course/detail/1/ GET None
-INFO 2021-11-10 23:06:07 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:06:12 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 23:06:12 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 23:06:12 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 23:06:13 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:06:14 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:06:14 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:10:07 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 23:10:07 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:10:08 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:10:08 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:10:11 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:10:11 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:10:17 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:10:17 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:11:03 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:11:04 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:11:07 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:11:08 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:12:24 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:12:24 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:20:52 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:20:52 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:21:10 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:21:11 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:21:55 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:21:56 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:22:04 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:22:04 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:22:06 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:22:06 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:22:16 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:22:16 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:22:51 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:22:51 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:27:48 127.0.0.1 akaduo / GET None
-INFO 2021-11-10 23:27:49 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:27:52 127.0.0.1 akaduo /course/list/ GET None
-INFO 2021-11-10 23:27:52 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:27:54 127.0.0.1 akaduo /course/detail/1/ GET None
-INFO 2021-11-10 23:27:54 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:27:56 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:27:56 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:37:15 127.0.0.1  / GET None
-INFO 2021-11-10 23:37:16 127.0.0.1  /media/banner/202110/1.jpg GET None
-INFO 2021-11-10 23:37:16 127.0.0.1  /media/banner/202110/2.jpg GET None
-INFO 2021-11-10 23:37:16 127.0.0.1  /media/courses/2021/11/xdf2.jpg GET None
-INFO 2021-11-10 23:37:16 127.0.0.1  /favicon.ico GET None
-INFO 2021-11-10 23:37:20 127.0.0.1  /login/ GET None
-INFO 2021-11-10 23:37:26 127.0.0.1 akaduo /login/ POST {"csrfmiddlewaretoken": "1vYvndzYie9OK2ZCIehjEErWdy0drbHNsGi7QZZvan8J3qyeOlyQRXXoHIeTB7s2", "username": "akaduo", "password": "akaduo123"}
-INFO 2021-11-10 23:37:26 127.0.0.1 akaduo / GET None
-INFO 2021-11-10 23:37:27 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:37:27 127.0.0.1 akaduo /media/courses/2021/11/xdf2.jpg GET None
-INFO 2021-11-10 23:37:27 127.0.0.1 akaduo /media/banner/202110/2.jpg GET None
-INFO 2021-11-10 23:37:27 127.0.0.1 akaduo /media/banner/202110/1.jpg GET None
-INFO 2021-11-10 23:37:30 127.0.0.1 akaduo /course/list/ GET None
-INFO 2021-11-10 23:37:30 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:37:32 127.0.0.1 akaduo /course/detail/1/ GET None
-INFO 2021-11-10 23:37:32 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:37:32 127.0.0.1 akaduo /media/org/2021/10/xdf1.jpg GET None
-INFO 2021-11-10 23:37:33 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 23:37:33 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:37:34 127.0.0.1 akaduo /media/teacher/2021/11/胡歌.jpg GET None
-INFO 2021-11-10 23:37:35 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:37:35 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:37:37 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:37:37 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:37:37 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:46:30 127.0.0.1 akaduo / GET None
-INFO 2021-11-10 23:46:30 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:46:33 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:46:34 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:48:36 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:48:36 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:48:36 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片.PNG GET None
-INFO 2021-11-10 23:48:36 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:38 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:38 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:39 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:39 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:39 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:41 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:41 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:43 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:48:43 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:48:43 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片.PNG GET None
-INFO 2021-11-10 23:48:44 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:44 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:44 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:45 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:45 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:46 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:51 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:48:52 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:48:52 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片.PNG GET None
-INFO 2021-11-10 23:48:52 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:52 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:53 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:54 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:54 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:54 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:55 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:48:56 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-10 23:49:01 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:49:02 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:49:02 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片.PNG GET None
-INFO 2021-11-10 23:50:28 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:50:29 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:50:29 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片1.PNG GET None
-INFO 2021-11-10 23:50:40 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:50:40 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:50:40 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片1.PNG GET None
-INFO 2021-11-10 23:50:40 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片2.PNG GET None
-INFO 2021-11-10 23:50:40 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片4.PNG GET None
-INFO 2021-11-10 23:50:40 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片5.PNG GET None
-INFO 2021-11-10 23:50:40 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片3.PNG GET None
-INFO 2021-11-10 23:51:31 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-10 23:51:31 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:51:31 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片1.PNG GET None
-INFO 2021-11-10 23:51:31 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片3.PNG GET None
-INFO 2021-11-10 23:51:31 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片4.PNG GET None
-INFO 2021-11-10 23:51:31 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片5.PNG GET None
-INFO 2021-11-10 23:51:31 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片2.PNG GET None
-INFO 2021-11-10 23:51:34 127.0.0.1 akaduo /course/comment/1/ GET None
-INFO 2021-11-10 23:51:35 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:51:39 127.0.0.1 akaduo /course/list/ GET None
-INFO 2021-11-10 23:51:39 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:51:40 127.0.0.1 akaduo /course/detail/1/ GET None
-INFO 2021-11-10 23:51:40 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:51:42 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-10 23:51:42 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:51:44 127.0.0.1 akaduo /course/video/4/ GET None
-INFO 2021-11-10 23:51:45 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-10 23:51:45 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片5.PNG GET None
-INFO 2021-11-10 23:51:45 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片4.PNG GET None
-INFO 2021-11-10 23:51:45 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片3.PNG GET None
-INFO 2021-11-10 23:51:45 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片1.PNG GET None
-INFO 2021-11-10 23:51:45 127.0.0.1 akaduo /PPT/通信与死锁/幻灯片2.PNG GET None
-INFO 2021-11-11 20:02:43 127.0.0.1 akaduo / GET None
-INFO 2021-11-11 20:02:44 127.0.0.1 akaduo /media/courses/2021/11/xdf2.jpg GET None
-INFO 2021-11-11 20:02:44 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:02:46 127.0.0.1 akaduo / GET None
-INFO 2021-11-11 20:02:46 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:02:46 127.0.0.1 akaduo /media/banner/202110/1.jpg GET None
-INFO 2021-11-11 20:02:46 127.0.0.1 akaduo /media/banner/202110/2.jpg GET None
-INFO 2021-11-11 20:02:49 127.0.0.1 akaduo /course/list/ GET None
-INFO 2021-11-11 20:02:50 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:02:51 127.0.0.1 akaduo /course/detail/1/ GET None
-INFO 2021-11-11 20:02:51 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:02:56 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-11 20:02:56 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-11 20:02:56 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-11 20:02:57 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:02:57 127.0.0.1 akaduo /media/teacher/2021/11/胡歌.jpg GET None
-INFO 2021-11-11 20:03:04 127.0.0.1 akaduo / GET None
-INFO 2021-11-11 20:03:04 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:30:00 127.0.0.1 akaduo / GET None
-INFO 2021-11-11 20:30:01 127.0.0.1 akaduo /course/list/ GET None
-INFO 2021-11-11 20:30:01 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:30:02 127.0.0.1 akaduo /course/detail/1/ GET None
-INFO 2021-11-11 20:30:02 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:30:05 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-11 20:30:06 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:30:06 127.0.0.1 akaduo /media/teacher/2021/11/胡歌.jpg GET None
-INFO 2021-11-11 20:30:08 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 20:30:08 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:30:08 127.0.0.1 akaduo /course/video/static/PPT/通信与死锁/幻灯片+3.PNG GET None
-INFO 2021-11-11 20:30:08 127.0.0.1 akaduo /course/video/static/PPT/通信与死锁/幻灯片+1.PNG GET None
-INFO 2021-11-11 20:30:08 127.0.0.1 akaduo /course/video/static/PPT/通信与死锁/幻灯片+2.PNG GET None
-INFO 2021-11-11 20:30:08 127.0.0.1 akaduo /course/video/static/PPT/通信与死锁/幻灯片+0.PNG GET None
-INFO 2021-11-11 20:30:10 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 20:30:11 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:30:11 127.0.0.1 akaduo /course/video/static/PPT/通信与死锁/幻灯片+0.PNG GET None
-INFO 2021-11-11 20:30:11 127.0.0.1 akaduo /course/video/static/PPT/通信与死锁/幻灯片+1.PNG GET None
-INFO 2021-11-11 20:30:11 127.0.0.1 akaduo /course/video/static/PPT/通信与死锁/幻灯片+2.PNG GET None
-INFO 2021-11-11 20:30:11 127.0.0.1 akaduo /course/video/static/PPT/通信与死锁/幻灯片+3.PNG GET None
-INFO 2021-11-11 20:30:24 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 20:30:24 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:30:29 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 20:30:30 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:30:30 127.0.0.1 akaduo /course/video/5/static/PPT/通信与死锁/幻灯片+1.PNG GET None
-INFO 2021-11-11 20:30:30 127.0.0.1 akaduo /course/video/5/static/PPT/通信与死锁/幻灯片+0.PNG GET None
-INFO 2021-11-11 20:30:30 127.0.0.1 akaduo /course/video/5/static/PPT/通信与死锁/幻灯片+2.PNG GET None
-INFO 2021-11-11 20:30:30 127.0.0.1 akaduo /course/video/5/static/PPT/通信与死锁/幻灯片+3.PNG GET None
-INFO 2021-11-11 20:32:37 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 20:32:37 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:33:55 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 20:33:56 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:33:57 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:33:58 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:33:59 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:34:00 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:34:00 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:34:00 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:34:04 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:34:09 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 20:34:09 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:34:09 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:34:11 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:34:39 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 20:34:39 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:35:46 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:35:46 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:35:46 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:35:47 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:35:48 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:35:48 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:36:30 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 20:36:30 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:39:52 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 20:39:52 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:39:52 127.0.0.1 akaduo /course/video/5/'PPT/通信与死锁/幻灯片1.PNG' %} GET None
-INFO 2021-11-11 20:39:53 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:40:25 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:41:07 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 20:41:07 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:41:08 127.0.0.1 akaduo /course/video/5/PPT/通信与死锁/幻灯片1.PNG %} GET None
-INFO 2021-11-11 20:41:08 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:41:10 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:46:01 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 20:46:01 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:46:03 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:46:03 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:54:08 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 20:54:09 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:54:09 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:54:09 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:54:10 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:54:11 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:54:12 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:54:12 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:54:13 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:54:13 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:54:13 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:54:46 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 20:54:47 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:54:48 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:54:48 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:54:49 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:54:50 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:54:50 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:54:50 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:55:05 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 20:55:05 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:55:19 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 20:55:19 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:56:04 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 20:56:04 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:56:05 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:56:05 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:56:05 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:56:06 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:57:33 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:57:33 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:57:34 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:57:34 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:58:07 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 20:58:41 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 20:58:42 127.0.0.1 akaduo /course/video/5/ POST None
-INFO 2021-11-11 21:03:12 127.0.0.1 akaduo /course/video/5/ GET None
-INFO 2021-11-11 21:03:18 127.0.0.1 akaduo /course/list/ GET None
-INFO 2021-11-11 21:03:18 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 21:03:20 127.0.0.1 akaduo /course/detail/1/ GET None
-INFO 2021-11-11 21:03:20 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 21:03:27 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-11 21:03:27 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-11 21:03:27 127.0.0.1 akaduo /course/info/1/ GET None
-INFO 2021-11-11 21:03:28 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 21:03:29 127.0.0.1 akaduo /course/video/1/ GET None
-INFO 2021-11-11 21:03:30 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-11 21:03:43 127.0.0.1 akaduo /xadmin/ GET None
-INFO 2021-11-11 21:03:43 127.0.0.1 akaduo /xadmin/ GET None
-INFO 2021-11-11 21:03:44 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
-INFO 2021-11-11 21:03:44 127.0.0.1 akaduo /xadmin/ GET None
-INFO 2021-11-11 21:03:45 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
-INFO 2021-11-11 21:07:11 127.0.0.1 akaduo /xadmin/course/course/ GET None
-INFO 2021-11-11 21:07:11 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
-INFO 2021-11-11 21:07:12 127.0.0.1 akaduo /xadmin/course/bannercourse/ GET None
-INFO 2021-11-11 21:07:13 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
-INFO 2021-11-11 21:07:15 127.0.0.1 akaduo /xadmin/course/courseresource/ GET None
-INFO 2021-11-11 21:07:15 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
-INFO 2021-11-11 21:13:24 127.0.0.1 akaduo /xadmin/course/courseresource/ POST {"csrfmiddlewaretoken": "M6NNiyi6EfIJtgJPKeOG9BWhB5kZjH9b9PyFST5RcLOFojhwTfMjFOovRBpFRpUR", "_selected_action": "6", "action": "delete_selected", "select_across": "0"}
-INFO 2021-11-11 21:13:25 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
-INFO 2021-11-11 21:13:27 127.0.0.1 akaduo /xadmin/course/courseresource/ POST {"csrfmiddlewaretoken": "tNvEhkZnDX9StmBuuB7KPT7sS503TDUqQwgwRFM8btfOop9bDC5nl6zG8B5JrlF6", "_selected_action": "6", "action": "delete_selected", "post": "yes"}
-INFO 2021-11-11 21:13:27 127.0.0.1 akaduo /xadmin/course/courseresource/ GET None
-INFO 2021-11-11 21:13:28 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
-INFO 2021-11-11 21:13:34 127.0.0.1 akaduo /xadmin/course/courseresource/add/ GET None
-INFO 2021-11-11 21:13:34 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
-INFO 2021-11-11 21:14:36 127.0.0.1 akaduo /xadmin/course/courseresource/add/ POST {"csrfmiddlewaretoken": "xla8FgH94mG5GGtQcEUTazxusKDapY4MU4V0fBuUCSM1BJ1xlFSwGMZIIgIQXGPs", "course": "1", "name": "\u6b7b\u9501", "add_time_0": "2021/11/11", "add_time_1": "21:13", "initial-add_time_0": "2021/11/11", "initial-add_time_1": "21:13", "_save": ""}
-INFO 2021-11-11 21:14:36 127.0.0.1 akaduo /xadmin/course/courseresource/ GET None
-INFO 2021-11-11 21:14:37 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 22:02:36 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:02:36 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:02:36 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:02:52 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:02:52 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:02:53 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:06:56 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:06:58 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:07:04 127.0.0.1 akaduo /course/video/1/ GET None
+INFO 2021-11-12 22:07:05 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:07:05 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:07:20 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:07:21 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:07:21 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:07:25 127.0.0.1 akaduo /course/comment/1/ GET None
+INFO 2021-11-12 22:07:25 127.0.0.1 akaduo /course/video/0/ GET None
+INFO 2021-11-12 22:07:25 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-11-12 22:07:25 127.0.0.1 akaduo /course/video/1/ GET None
+INFO 2021-11-12 22:07:41 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:07:42 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:07:43 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:07:43 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:07:43 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:07:45 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:07:46 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:07:47 127.0.0.1 akaduo /course/video/1/ GET None
+INFO 2021-11-12 22:07:48 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:07:48 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:07:58 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:09:41 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:09:50 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:09:52 127.0.0.1 akaduo /course/video/1/ GET None
+INFO 2021-11-12 22:09:52 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:09:52 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:09:54 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:09:55 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:10:20 127.0.0.1 akaduo /course/video/1/ GET None
+INFO 2021-11-12 22:10:21 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:10:21 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:10:22 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:10:24 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:10:29 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:10:30 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:10:31 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:10:41 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:10:42 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:10:43 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:13:24 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:13:25 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:13:33 127.0.0.1 akaduo /course/video/1/ GET None
+INFO 2021-11-12 22:13:34 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:13:34 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:13:36 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:13:36 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:13:49 127.0.0.1 akaduo /course/video/1/ GET None
+INFO 2021-11-12 22:13:50 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:13:50 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:13:51 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:13:52 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:13:52 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:13:53 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:13:53 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:13:53 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:14:03 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:14:04 127.0.0.1 akaduo /course/video/1/ GET None
+INFO 2021-11-12 22:14:05 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:14:05 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:14:06 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:15:55 127.0.0.1 akaduo /course/video/1/ GET None
+INFO 2021-11-12 22:15:55 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:15:55 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:15:57 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:15:58 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:15:59 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:16:00 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:16:01 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:16:39 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:16:40 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:16:41 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:21:57 127.0.0.1 akaduo /course/video/1/ GET None
+INFO 2021-11-12 22:21:57 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:21:58 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:21:58 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:21:59 127.0.0.1 akaduo /course/video/1/ POST None
+INFO 2021-11-12 22:23:15 127.0.0.1 akaduo /course/video/1/ GET None
+INFO 2021-11-12 22:23:15 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:23:15 127.0.0.1 akaduo /course/video/1/ POST 1
+INFO 2021-11-12 22:23:15 127.0.0.1 akaduo /course/video/1/ POST 0
+INFO 2021-11-12 22:23:16 127.0.0.1 akaduo /course/video/1/ POST 1
+INFO 2021-11-12 22:23:25 127.0.0.1 akaduo /course/video/1/ POST 2
+INFO 2021-11-12 22:23:26 127.0.0.1 akaduo /course/video/1/ POST 3
+INFO 2021-11-12 22:23:27 127.0.0.1 akaduo /course/video/1/ POST 2
+INFO 2021-11-12 22:23:27 127.0.0.1 akaduo /course/video/1/ POST 1
+INFO 2021-11-12 22:23:28 127.0.0.1 akaduo /course/video/1/ POST 0
+INFO 2021-11-12 22:38:06 127.0.0.1 akaduo /course/video/1/ POST {"page": "2"} 2
+INFO 2021-11-12 22:38:06 127.0.0.1 akaduo /course/video/1/ POST {"page": "1"} 1
+INFO 2021-11-12 22:38:06 127.0.0.1 akaduo /course/video/1/ POST {"page": "3"} 3
+INFO 2021-11-12 22:39:09 127.0.0.1 akaduo /course/video/1/ POST {"page": "2"}
+INFO 2021-11-12 22:39:09 127.0.0.1 akaduo /course/video/1/ POST {"page": "1"}
+INFO 2021-11-12 22:39:09 127.0.0.1 akaduo /course/video/1/ POST {"page": "0"}
+INFO 2021-11-12 22:41:34 127.0.0.1 akaduo /course/video/1/ POST {"page": "1"}
+INFO 2021-11-12 22:41:34 127.0.0.1 akaduo /course/video/1/ POST {"page": "2"}
+INFO 2021-11-12 22:41:34 127.0.0.1 akaduo /course/video/1/ POST {"page": "3"}
+INFO 2021-11-12 22:41:36 127.0.0.1 akaduo /course/video/1/ GET None
+INFO 2021-11-12 22:41:36 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:41:37 127.0.0.1 akaduo /course/video/1/ POST {"page": "3"}
+INFO 2021-11-12 22:41:37 127.0.0.1 akaduo /course/video/1/ POST {"page": "2"}
+INFO 2021-11-12 22:41:38 127.0.0.1 akaduo /course/video/1/ POST {"page": "1"}
+INFO 2021-11-12 22:41:38 127.0.0.1 akaduo /course/video/1/ POST {"page": "0"}
+INFO 2021-11-12 22:46:11 127.0.0.1 akaduo /course/video/1/ POST {"page": "1"}
+INFO 2021-11-12 22:46:13 127.0.0.1 akaduo /course/video/1/ POST {"page": "0"}
+INFO 2021-11-12 22:46:24 127.0.0.1 akaduo /course/video/1/ POST {"page": "1"}
+INFO 2021-11-12 22:46:24 127.0.0.1 akaduo /course/video/1/ POST {"page": "2"}
+INFO 2021-11-12 22:46:24 127.0.0.1 akaduo /course/video/1/ POST {"page": "3"}
+INFO 2021-11-12 22:46:40 127.0.0.1 akaduo /course/video/1/ GET None
+INFO 2021-11-12 22:46:40 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:46:40 127.0.0.1 akaduo /course/video/1/ POST {"page": "4"}
+INFO 2021-11-12 22:46:41 127.0.0.1 akaduo /course/video/1/ POST {"page": "3"}
+INFO 2021-11-12 22:46:41 127.0.0.1 akaduo /course/video/1/ POST {"page": "2"}
+INFO 2021-11-12 22:46:48 127.0.0.1 akaduo /course/video/1/ POST {"page": "1"}
+INFO 2021-11-12 22:46:56 127.0.0.1 akaduo /course/video/1/ POST {"page": "4"}
+INFO 2021-11-12 22:49:00 127.0.0.1 akaduo /course/video/0/ GET None
+INFO 2021-11-12 22:49:00 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:49:00 127.0.0.1 akaduo /media/course/resource/死锁第二单元/幻灯片1.PNG GET None
+INFO 2021-11-12 22:49:00 127.0.0.1 akaduo /media/course/resource/死锁第二单元/幻灯片2.PNG GET None
+INFO 2021-11-12 22:49:23 127.0.0.1 akaduo /course/video/0/ POST {"page": "2"}
+INFO 2021-11-12 22:49:28 127.0.0.1 akaduo /course/video/0/ POST {"page": "1"}
+INFO 2021-11-12 22:49:30 127.0.0.1 akaduo /course/video/0/ POST {"page": "2"}
+INFO 2021-11-12 22:51:47 127.0.0.1 akaduo /course/video/0/ GET None
+INFO 2021-11-12 22:51:47 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:51:47 127.0.0.1 akaduo /course/video/0/ POST {"page": "2"}
+INFO 2021-11-12 22:51:49 127.0.0.1 akaduo /course/video/0/ GET None
+INFO 2021-11-12 22:51:49 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:51:49 127.0.0.1 akaduo /course/video/0/ POST {"page": "2"}
+INFO 2021-11-12 22:52:10 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 22:52:10 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:52:10 127.0.0.1 akaduo /media/banner/202110/1.jpg GET None
+INFO 2021-11-12 22:52:10 127.0.0.1 akaduo /media/banner/202110/2.jpg GET None
+INFO 2021-11-12 22:52:20 127.0.0.1 akaduo /xadmin/ GET None
+INFO 2021-11-12 22:52:47 127.0.0.1 akaduo /course/info/1/ GET None
+INFO 2021-11-12 22:52:47 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:52:56 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 22:52:57 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 22:53:19 127.0.0.1 akaduo /xadmin/ GET None
+INFO 2021-11-12 22:53:21 127.0.0.1 akaduo /xadmin/ GET None
+INFO 2021-11-12 22:53:25 127.0.0.1 akaduo /xadmin/ GET None
+INFO 2021-11-12 22:53:34 127.0.0.1 akaduo /xadmin/ GET None
+INFO 2021-11-12 22:53:43 127.0.0.1 akaduo /xadmin/ GET None
+INFO 2021-11-12 22:53:43 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 22:53:57 127.0.0.1 akaduo /xadmin/ GET None
+INFO 2021-11-12 22:53:57 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 22:54:09 127.0.0.1 akaduo /xadmin/course/lesson/ GET None
+INFO 2021-11-12 22:54:09 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 22:54:11 127.0.0.1 akaduo /xadmin/course/lesson/add/ GET None
+INFO 2021-11-12 22:54:12 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 22:54:14 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 22:54:15 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 22:54:17 127.0.0.1 akaduo /xadmin/course/course/add/ GET None
+INFO 2021-11-12 22:54:17 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 22:54:17 127.0.0.1 akaduo /ueditor/controller/ GET {"imagePathFormat": "courses/ueditor/", "filePathFormat": "courses/ueditor/", "action": "config", "noCache": "1636728857601"}
+INFO 2021-11-12 22:56:32 127.0.0.1 akaduo /xadmin/course/course/add/ POST {"csrfmiddlewaretoken": "ACnTXe5u3VF59Y27Itk26ZCdg9IVGtLywmNOKol2009UERu1PaLgv2eZpy9OrCtD", "name": "\u8bfe\u7a0b2", "desc": "\u5047\u88c5\u6709\u63cf\u8ff0", "degree": "gj", "learn_times": "0", "students": "0", "tag": "\u5047\u88c5\u6709\u6807\u7b7e", "add_time_0": "2021/11/12", "add_time_1": "22:54", "initial-add_time_0": "2021/11/12", "initial-add_time_1": "22:54", "course_org": "1", "category": "\u5047\u88c5\u6709\u7c7b\u522b", "teacher": "1", "youneed_know": "\u5047\u88c5\u6709\u987b\u77e5", "teacher_tell": "\u5047\u88c5\u6709tell", "lesson_set-TOTAL_FORMS": "0", "lesson_set-INITIAL_FORMS": "0", "lesson_set-MIN_NUM_FORMS": "0", "lesson_set-MAX_NUM_FORMS": "1000", "lesson_set-__prefix__-course": "", "lesson_set-__prefix__-name": "", "lesson_set-__prefix__-add_time_0": "2021/11/12", "lesson_set-__prefix__-add_time_1": "22:54", "initial-lesson_set-__prefix__-add_time_0": "2021/11/12", "initial-lesson_set-__prefix__-add_time_1": "22:54", "lesson_set-__prefix__-id": "", "courseresource_set-TOTAL_FORMS": "0", "courseresource_set-INITIAL_FORMS": "0", "courseresource_set-MIN_NUM_FORMS": "0", "courseresource_set-MAX_NUM_FORMS": "1000", "courseresource_set-__prefix__-course": "", "courseresource_set-__prefix__-name": "", "courseresource_set-__prefix__-download": "", "courseresource_set-__prefix__-add_time_0": "2021/11/12", "courseresource_set-__prefix__-add_time_1": "22:54", "initial-courseresource_set-__prefix__-add_time_0": "2021/11/12", "initial-courseresource_set-__prefix__-add_time_1": "22:54", "courseresource_set-__prefix__-id": "", "_save": "", "detail": ""}
+INFO 2021-11-12 22:56:32 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 22:56:32 127.0.0.1 akaduo /ueditor/controller/ GET {"imagePathFormat": "courses/ueditor/", "filePathFormat": "courses/ueditor/", "action": "config", "noCache": "1636728992573"}
+INFO 2021-11-12 22:56:44 127.0.0.1 akaduo /xadmin/course/course/add/ POST {"csrfmiddlewaretoken": "aRA5ibsdGGTOOnSZMWaMNrk8RPf5aNXq6B005lILDLnDjgkTTDB0cuWU0eGYVWFv", "name": "\u8bfe\u7a0b2", "desc": "\u5047\u88c5\u6709\u63cf\u8ff0", "degree": "gj", "learn_times": "0", "students": "0", "tag": "\u5047\u88c5\u6709\u6807\u7b7e", "add_time_0": "2021/11/12", "add_time_1": "22:54", "initial-add_time_0": "2021/11/12", "initial-add_time_1": "22:54", "course_org": "1", "category": "\u5047\u88c5\u6709\u7c7b\u522b", "teacher": "1", "youneed_know": "\u5047\u88c5\u6709\u987b\u77e5", "teacher_tell": "\u5047\u88c5\u6709tell", "lesson_set-TOTAL_FORMS": "0", "lesson_set-INITIAL_FORMS": "0", "lesson_set-MIN_NUM_FORMS": "0", "lesson_set-MAX_NUM_FORMS": "1000", "lesson_set-__prefix__-course": "", "lesson_set-__prefix__-name": "", "lesson_set-__prefix__-add_time_0": "2021/11/12", "lesson_set-__prefix__-add_time_1": "22:56", "initial-lesson_set-__prefix__-add_time_0": "2021/11/12", "initial-lesson_set-__prefix__-add_time_1": "22:56", "lesson_set-__prefix__-id": "", "courseresource_set-TOTAL_FORMS": "0", "courseresource_set-INITIAL_FORMS": "0", "courseresource_set-MIN_NUM_FORMS": "0", "courseresource_set-MAX_NUM_FORMS": "1000", "courseresource_set-__prefix__-course": "", "courseresource_set-__prefix__-name": "", "courseresource_set-__prefix__-download": "", "courseresource_set-__prefix__-add_time_0": "2021/11/12", "courseresource_set-__prefix__-add_time_1": "22:56", "initial-courseresource_set-__prefix__-add_time_0": "2021/11/12", "initial-courseresource_set-__prefix__-add_time_1": "22:56", "courseresource_set-__prefix__-id": "", "_save": "", "detail": "<p>1</p>"}
+INFO 2021-11-12 22:56:44 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 22:56:45 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 22:56:51 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 22:56:51 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 22:57:02 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 22:57:03 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 22:57:32 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:00:32 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:01:22 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:02:27 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:02:27 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:02:27 127.0.0.1 akaduo /media/courses/2021/11/english.jpg GET None
+INFO 2021-11-12 23:03:09 127.0.0.1 akaduo /users/info/ GET None
+INFO 2021-11-12 23:03:09 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:03:10 127.0.0.1 akaduo /captcha/image/5f3c00e47fb1be12d2fd15b9a860711597721b3f/ GET None
+INFO 2021-11-12 23:03:17 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:03:17 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:03:17 127.0.0.1 akaduo /media/courses/2021/11/english.jpg GET None
+INFO 2021-11-12 23:03:18 127.0.0.1 akaduo /xadmin/ GET None
+INFO 2021-11-12 23:03:21 127.0.0.1 akaduo /xadmin/ GET None
+INFO 2021-11-12 23:03:21 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:03:23 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:03:24 127.0.0.1 akaduo /xadmin/course/course/add/ GET None
+INFO 2021-11-12 23:03:24 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:03:24 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:03:25 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:03:26 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:03:27 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:03:28 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:03:28 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:03:28 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:03:29 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:03:29 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:03:30 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:03:30 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:03:30 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:03:30 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:03:30 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:03:31 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:03:31 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:03:31 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:03:32 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:03:35 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:03:36 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:03:37 127.0.0.1 akaduo /xadmin/ GET None
+INFO 2021-11-12 23:03:37 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:03:43 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:03:43 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:03:45 127.0.0.1 akaduo /xadmin/ GET None
+INFO 2021-11-12 23:03:55 127.0.0.1 akaduo /org/list/ GET None
+INFO 2021-11-12 23:03:55 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:03:55 127.0.0.1 akaduo /media/org/2021/10/xdf2.jpg GET None
+INFO 2021-11-12 23:05:04 127.0.0.1 akaduo /org/list/ GET None
+INFO 2021-11-12 23:05:05 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:05:08 127.0.0.1 akaduo /org/teacher/list/ GET None
+INFO 2021-11-12 23:05:08 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:05:10 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-11-12 23:05:10 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:05:10 127.0.0.1 akaduo /media/courses/2021/11/english.jpg GET None
+INFO 2021-11-12 23:05:11 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:05:11 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:05:13 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-11-12 23:05:13 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:05:20 127.0.0.1 akaduo /xadmin/course/course/add/ GET None
+INFO 2021-11-12 23:06:01 127.0.0.1 akaduo /course/detail/3/ GET None
+INFO 2021-11-12 23:06:02 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:06:02 127.0.0.1 akaduo /media/courses/2021/11/english.jpg GET None
+INFO 2021-11-12 23:06:17 127.0.0.1 akaduo /org/teacher/list/ GET None
+INFO 2021-11-12 23:06:17 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:06:18 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-11-12 23:06:19 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:07:08 127.0.0.1 akaduo /org/list/ GET {"keywords": "312312"}
+INFO 2021-11-12 23:07:09 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:07:19 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-11-12 23:07:19 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:07:19 127.0.0.1 akaduo /media/courses/2021/11/english.jpg GET None
+INFO 2021-11-12 23:07:33 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-11-12 23:07:34 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:07:44 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-11-12 23:07:44 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:07:58 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-11-12 23:07:58 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:08:04 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-11-12 23:08:04 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:08:59 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-11-12 23:08:59 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:08:59 127.0.0.1 akaduo /media/courses/2021/11/english.jpg GET None
+INFO 2021-11-12 23:09:03 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:09:07 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:09:07 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:09:08 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-11-12 23:09:09 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:09:10 127.0.0.1 akaduo /course/list/ GET {"sort": "hot"}
+INFO 2021-11-12 23:09:10 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:09:11 127.0.0.1 akaduo /course/list/ GET {"sort": ""}
+INFO 2021-11-12 23:09:11 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:09:12 127.0.0.1 akaduo /course/list/ GET {"sort": "students"}
+INFO 2021-11-12 23:09:12 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:09:13 127.0.0.1 akaduo /course/list/ GET {"sort": ""}
+INFO 2021-11-12 23:09:13 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:09:14 127.0.0.1 akaduo /course/list/ GET {"sort": "hot"}
+INFO 2021-11-12 23:09:14 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:09:15 127.0.0.1 akaduo /course/list/ GET {"sort": "students"}
+INFO 2021-11-12 23:09:15 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:09:16 127.0.0.1 akaduo /course/list/ GET {"sort": ""}
+INFO 2021-11-12 23:09:16 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:09:25 127.0.0.1 akaduo /course/detail/1/ GET None
+INFO 2021-11-12 23:09:26 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:09:28 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:09:29 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:09:32 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-11-12 23:09:32 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:09:38 127.0.0.1 akaduo /org/list/ GET None
+INFO 2021-11-12 23:09:39 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:10:24 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:10:24 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:10:24 127.0.0.1 akaduo /media/courses/2021/11/english.jpg GET None
+INFO 2021-11-12 23:10:35 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:10:35 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:10:37 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-11-12 23:10:37 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:10:39 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:10:39 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:10:49 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:10:49 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:23:07 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:23:07 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:23:07 127.0.0.1 akaduo /media/courses/2021/11/english.jpg GET None
+INFO 2021-11-12 23:23:10 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:23:10 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:23:16 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:23:16 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:23:26 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:23:26 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:23:38 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:23:38 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:23:39 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:23:39 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:23:39 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:23:39 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:23:40 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:23:40 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:23:40 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:23:40 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:23:41 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:25:53 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:25:53 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:25:53 127.0.0.1 akaduo /media/courses/2021/11/english.jpg GET None
+INFO 2021-11-12 23:25:54 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:25:55 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:27:49 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:27:49 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:27:51 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:27:51 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:29:09 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:29:09 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:29:09 127.0.0.1 akaduo /media/courses/2021/11/english.jpg GET None
+INFO 2021-11-12 23:30:41 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:30:41 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:30:53 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-11-12 23:30:54 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:30:54 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:30:55 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:30:58 127.0.0.1  /logout/ GET None
+INFO 2021-11-12 23:30:58 127.0.0.1  / GET None
+INFO 2021-11-12 23:31:00 127.0.0.1  /login/ GET None
+INFO 2021-11-12 23:31:01 127.0.0.1  / GET None
+INFO 2021-11-12 23:31:03 127.0.0.1  /login/ GET None
+INFO 2021-11-12 23:31:54 127.0.0.1  /login/ GET None
+INFO 2021-11-12 23:31:59 127.0.0.1  / GET None
+INFO 2021-11-12 23:31:59 127.0.0.1  /media/banner/202110/1.jpg GET None
+INFO 2021-11-12 23:31:59 127.0.0.1  /media/banner/202110/2.jpg GET None
+INFO 2021-11-12 23:31:59 127.0.0.1  /media/courses/2021/11/xdf2.jpg GET None
+INFO 2021-11-12 23:31:59 127.0.0.1  /media/courses/2021/11/english.jpg GET None
+INFO 2021-11-12 23:32:02 127.0.0.1  /register/ GET None
+INFO 2021-11-12 23:32:02 127.0.0.1  /captcha/image/222164d504b49c81f283289e32763de4ccfad759/ GET None
+INFO 2021-11-12 23:32:04 127.0.0.1  /login/ GET None
+INFO 2021-11-12 23:32:05 127.0.0.1  /register/ GET None
+INFO 2021-11-12 23:32:05 127.0.0.1  /captcha/image/28fd519e5e5dfff6997b05a791c74e77c145bbe4/ GET None
+INFO 2021-11-12 23:32:30 127.0.0.1  / GET None
+INFO 2021-11-12 23:33:06 127.0.0.1  / GET None
+INFO 2021-11-12 23:34:31 127.0.0.1  / GET None
+INFO 2021-11-12 23:34:33 127.0.0.1  / GET None
+INFO 2021-11-12 23:34:34 127.0.0.1  /login/ GET None
+INFO 2021-11-12 23:34:44 127.0.0.1 akaduo /login/ POST {"csrfmiddlewaretoken": "7PPPTNs5KwykHS27t36z4uA876o5VH9J3zfKGXIDHB29cLu1AKxNtxcUgvPYGQRO", "username": "akaduo", "password": "akaduo123"}
+INFO 2021-11-12 23:34:45 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:34:45 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:34:45 127.0.0.1 akaduo /media/banner/202110/1.jpg GET None
+INFO 2021-11-12 23:34:45 127.0.0.1 akaduo /media/courses/2021/11/xdf2.jpg GET None
+INFO 2021-11-12 23:34:45 127.0.0.1 akaduo /media/banner/202110/2.jpg GET None
+INFO 2021-11-12 23:34:45 127.0.0.1 akaduo /media/courses/2021/11/english.jpg GET None
+INFO 2021-11-12 23:34:54 127.0.0.1 akaduo /users/info/ GET None
+INFO 2021-11-12 23:34:54 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:34:54 127.0.0.1 akaduo /captcha/image/5f3c00e47fb1be12d2fd15b9a860711597721b3f/ GET None
+INFO 2021-11-12 23:35:53 127.0.0.1 akaduo /users/mycourse/ GET None
+INFO 2021-11-12 23:35:54 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:35:55 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-11-12 23:35:55 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:35:55 127.0.0.1 akaduo /media/org/2021/10/xdf1.jpg GET None
+INFO 2021-11-12 23:35:56 127.0.0.1 akaduo /users/my_message/ GET None
+INFO 2021-11-12 23:35:56 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:35:58 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-11-12 23:35:58 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:35:59 127.0.0.1 akaduo /users/myfav/teacher/ GET None
+INFO 2021-11-12 23:35:59 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:36:00 127.0.0.1 akaduo /users/myfav/course/ GET None
+INFO 2021-11-12 23:37:42 127.0.0.1 akaduo /users/myfav/teacher/ GET None
+INFO 2021-11-12 23:37:43 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:37:50 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-11-12 23:37:51 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:37:52 127.0.0.1 akaduo /users/myfav/teacher/ GET None
+INFO 2021-11-12 23:37:52 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:37:59 127.0.0.1 akaduo /users/myfav/teacher/ GET None
+INFO 2021-11-12 23:38:00 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:38:01 127.0.0.1 akaduo /users/myfav/course/ GET None
+INFO 2021-11-12 23:38:28 127.0.0.1 akaduo /users/myfav/teacher/ GET None
+INFO 2021-11-12 23:38:29 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:38:30 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-11-12 23:38:30 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:38:32 127.0.0.1 akaduo /users/mycourse/ GET None
+INFO 2021-11-12 23:38:32 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:38:33 127.0.0.1 akaduo /users/info/ GET None
+INFO 2021-11-12 23:38:33 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:38:34 127.0.0.1 akaduo /users/my_message/ GET None
+INFO 2021-11-12 23:38:34 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:38:35 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-11-12 23:38:35 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:38:37 127.0.0.1 akaduo /users/mycourse/ GET None
+INFO 2021-11-12 23:38:37 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:38:38 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-11-12 23:38:38 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:38:48 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-11-12 23:38:48 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:38:50 127.0.0.1 akaduo /users/myfav/teacher/ GET None
+INFO 2021-11-12 23:38:50 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:38:51 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-11-12 23:38:51 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:38:52 127.0.0.1 akaduo /users/myfav/teacher/ GET None
+INFO 2021-11-12 23:38:52 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:38:53 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-11-12 23:38:53 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:39:03 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-11-12 23:39:03 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:39:05 127.0.0.1 akaduo /users/mycourse/ GET None
+INFO 2021-11-12 23:39:05 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:39:06 127.0.0.1 akaduo /users/my_message/ GET None
+INFO 2021-11-12 23:39:07 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:39:08 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-11-12 23:39:08 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:39:08 127.0.0.1 akaduo /users/info/ GET None
+INFO 2021-11-12 23:39:08 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:40:12 127.0.0.1 akaduo /users/info/ GET None
+INFO 2021-11-12 23:40:13 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:40:44 127.0.0.1 akaduo /users/info/ GET None
+INFO 2021-11-12 23:40:44 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:40:46 127.0.0.1 akaduo /users/mycourse/ GET None
+INFO 2021-11-12 23:40:46 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:40:47 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-11-12 23:40:47 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:40:48 127.0.0.1 akaduo /users/my_message/ GET None
+INFO 2021-11-12 23:40:48 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:40:49 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-11-12 23:40:49 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:40:50 127.0.0.1 akaduo /org/add_fav/ POST {"fav_type": "2", "fav_id": "1", "csrfmiddlewaretoken": "tPB50zyqr1knvrK0WZf4w5OuSmQbEf2xsUbQAyoBhXy0ZtBYeHL36QAJ5JrLR3gk"}
+INFO 2021-11-12 23:40:52 127.0.0.1 akaduo /org/add_fav/ POST {"fav_type": "2", "fav_id": "1", "csrfmiddlewaretoken": "tPB50zyqr1knvrK0WZf4w5OuSmQbEf2xsUbQAyoBhXy0ZtBYeHL36QAJ5JrLR3gk"}
+INFO 2021-11-12 23:40:52 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-11-12 23:40:53 127.0.0.1 akaduo /org/add_fav/ POST {"fav_type": "2", "fav_id": "1", "csrfmiddlewaretoken": "tPB50zyqr1knvrK0WZf4w5OuSmQbEf2xsUbQAyoBhXy0ZtBYeHL36QAJ5JrLR3gk"}
+INFO 2021-11-12 23:40:53 127.0.0.1 akaduo /org/add_fav/ POST {"fav_type": "2", "fav_id": "1", "csrfmiddlewaretoken": "tPB50zyqr1knvrK0WZf4w5OuSmQbEf2xsUbQAyoBhXy0ZtBYeHL36QAJ5JrLR3gk"}
+INFO 2021-11-12 23:40:53 127.0.0.1 akaduo /org/add_fav/ POST {"fav_type": "2", "fav_id": "1", "csrfmiddlewaretoken": "tPB50zyqr1knvrK0WZf4w5OuSmQbEf2xsUbQAyoBhXy0ZtBYeHL36QAJ5JrLR3gk"}
+INFO 2021-11-12 23:40:53 127.0.0.1 akaduo /org/add_fav/ POST {"fav_type": "2", "fav_id": "1", "csrfmiddlewaretoken": "tPB50zyqr1knvrK0WZf4w5OuSmQbEf2xsUbQAyoBhXy0ZtBYeHL36QAJ5JrLR3gk"}
+INFO 2021-11-12 23:40:54 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:40:56 127.0.0.1 akaduo /org/add_fav/ POST {"fav_type": "2", "fav_id": "1", "csrfmiddlewaretoken": "k1gewMlNNTblf77e0doWceQETSFd7Jwoj6QZ6LbYDPpYJ9YciVUVMZCT6fgNkxKb"}
+INFO 2021-11-12 23:40:56 127.0.0.1 akaduo /org/add_fav/ POST {"fav_type": "2", "fav_id": "1", "csrfmiddlewaretoken": "k1gewMlNNTblf77e0doWceQETSFd7Jwoj6QZ6LbYDPpYJ9YciVUVMZCT6fgNkxKb"}
+INFO 2021-11-12 23:40:56 127.0.0.1 akaduo /org/add_fav/ POST {"fav_type": "2", "fav_id": "1", "csrfmiddlewaretoken": "k1gewMlNNTblf77e0doWceQETSFd7Jwoj6QZ6LbYDPpYJ9YciVUVMZCT6fgNkxKb"}
+INFO 2021-11-12 23:40:57 127.0.0.1 akaduo /org/add_fav/ POST {"fav_type": "2", "fav_id": "1", "csrfmiddlewaretoken": "k1gewMlNNTblf77e0doWceQETSFd7Jwoj6QZ6LbYDPpYJ9YciVUVMZCT6fgNkxKb"}
+INFO 2021-11-12 23:40:57 127.0.0.1 akaduo /users/my_message/ GET None
+INFO 2021-11-12 23:40:57 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:40:58 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-11-12 23:40:58 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:41:01 127.0.0.1 akaduo /users/myfav/org/ GET None
+INFO 2021-11-12 23:41:02 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:41:03 127.0.0.1 akaduo /users/mycourse/ GET None
+INFO 2021-11-12 23:41:03 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:41:04 127.0.0.1 akaduo /users/info/ GET None
+INFO 2021-11-12 23:41:04 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:41:14 127.0.0.1 akaduo /users/info/ GET None
+INFO 2021-11-12 23:41:14 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:41:29 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:41:29 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:41:29 127.0.0.1 akaduo /media/courses/2021/11/english.jpg GET None
+INFO 2021-11-12 23:41:32 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-11-12 23:41:32 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:41:34 127.0.0.1 akaduo /course/detail/3/ GET None
+INFO 2021-11-12 23:41:34 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:41:39 127.0.0.1 akaduo /course/info/3/ GET None
+INFO 2021-11-12 23:41:39 127.0.0.1 akaduo /course/info/3/ GET None
+INFO 2021-11-12 23:41:39 127.0.0.1 akaduo /course/info/3/ GET None
+INFO 2021-11-12 23:41:39 127.0.0.1 akaduo /course/info/3/ GET None
+INFO 2021-11-12 23:41:41 127.0.0.1 akaduo /media/teacher/2021/11/胡歌.jpg GET None
+INFO 2021-11-12 23:41:41 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:41:43 127.0.0.1 akaduo /course/comment/3/ GET None
+INFO 2021-11-12 23:41:43 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:41:45 127.0.0.1 akaduo /course/info/3/ GET None
+INFO 2021-11-12 23:41:45 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:41:45 127.0.0.1 akaduo /course/info/3/ GET None
+INFO 2021-11-12 23:41:46 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:42:45 127.0.0.1 akaduo /course/info/3/ GET None
+INFO 2021-11-12 23:42:45 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:42:58 127.0.0.1 akaduo /course/info/3/ GET None
+INFO 2021-11-12 23:42:58 127.0.0.1 akaduo /course/comment/3/ GET None
+INFO 2021-11-12 23:42:58 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:42:59 127.0.0.1 akaduo /course/info/3/ GET None
+INFO 2021-11-12 23:43:00 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:43:00 127.0.0.1 akaduo /course/comment/3/ GET None
+INFO 2021-11-12 23:43:01 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:43:05 127.0.0.1 akaduo /course/info/3/ GET None
+INFO 2021-11-12 23:43:05 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:43:06 127.0.0.1 akaduo /course/comment/3/ GET None
+INFO 2021-11-12 23:43:06 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:43:08 127.0.0.1 akaduo /course/info/3/ GET None
+INFO 2021-11-12 23:43:08 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:44:19 127.0.0.1 akaduo /course/info/3/ GET None
+INFO 2021-11-12 23:44:20 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:44:21 127.0.0.1 akaduo /course/info/3/ GET None
+INFO 2021-11-12 23:44:21 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:44:38 127.0.0.1 akaduo /xadmin/organization/teacher/ GET None
+INFO 2021-11-12 23:44:38 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:44:43 127.0.0.1 akaduo /xadmin/course/course/ GET None
+INFO 2021-11-12 23:44:44 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:44:58 127.0.0.1 akaduo /xadmin/course/lesson/ GET None
+INFO 2021-11-12 23:44:58 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:45:02 127.0.0.1 akaduo /xadmin/course/lesson/add/ GET None
+INFO 2021-11-12 23:45:03 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:45:10 127.0.0.1 akaduo /xadmin/course/lesson/add/ POST {"csrfmiddlewaretoken": "5bA2zoDC9gZmsF1iTelowXenFFVcvbjL4gaN9ntNZcdZWHSgbWRn6I0CS2wMIZxy", "course": "3", "name": "\u7b2c\u4e00\u5355\u5143", "add_time_0": "2021/11/12", "add_time_1": "23:45", "initial-add_time_0": "2021/11/12", "initial-add_time_1": "23:45", "_addanother": "\u4fdd\u5b58\u5e76\u589e\u52a0\u53e6\u4e00\u4e2a"}
+INFO 2021-11-12 23:45:10 127.0.0.1 akaduo /xadmin/course/lesson/add/ GET None
+INFO 2021-11-12 23:45:11 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:45:17 127.0.0.1 akaduo /xadmin/course/lesson/add/ POST {"csrfmiddlewaretoken": "w8ayyDoCqJW3MspSp42z7huVfMMOBxkyvdKj8CeNgFaGgugQHMyyH2gas9noOlyl", "course": "3", "name": "\u7b2c\u4e8c\u5355\u5143", "add_time_0": "2021/11/12", "add_time_1": "23:45", "initial-add_time_0": "2021/11/12", "initial-add_time_1": "23:45", "_addanother": "\u4fdd\u5b58\u5e76\u589e\u52a0\u53e6\u4e00\u4e2a"}
+INFO 2021-11-12 23:45:18 127.0.0.1 akaduo /xadmin/course/lesson/add/ GET None
+INFO 2021-11-12 23:45:18 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:45:22 127.0.0.1 akaduo /xadmin/course/video/ GET None
+INFO 2021-11-12 23:45:22 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:45:27 127.0.0.1 akaduo /xadmin/course/video/add/ GET None
+INFO 2021-11-12 23:45:27 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:45:29 127.0.0.1 akaduo /xadmin/course/courseresource/ GET None
+INFO 2021-11-12 23:45:29 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:45:33 127.0.0.1 akaduo /xadmin/course/courseresource/add/ GET None
+INFO 2021-11-12 23:45:33 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:45:35 127.0.0.1 akaduo /xadmin/course/video/ GET None
+INFO 2021-11-12 23:45:36 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:45:38 127.0.0.1 akaduo /xadmin/course/video/add/ GET None
+INFO 2021-11-12 23:45:38 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:46:34 127.0.0.1 akaduo /xadmin/course/video/add/ POST {"csrfmiddlewaretoken": "2y38HyeEBNHZsLO5ygeiNzFcM4nOkXLh1DDThx4PrJVCWNF3QYKhnkrrZrYoxLZ4", "lesson": "11", "name": "\u901a\u4fe1", "url": "course/resource/\u6b7b\u9501\u7b2c\u4e00\u5355\u5143/", "learn_times": "4", "add_time_0": "2021/11/12", "add_time_1": "23:45", "initial-add_time_0": "2021/11/12", "initial-add_time_1": "23:45", "_addanother": "\u4fdd\u5b58\u5e76\u589e\u52a0\u53e6\u4e00\u4e2a"}
+INFO 2021-11-12 23:46:34 127.0.0.1 akaduo /xadmin/course/video/add/ GET None
+INFO 2021-11-12 23:46:35 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:46:47 127.0.0.1 akaduo /xadmin/course/video/add/ POST {"csrfmiddlewaretoken": "5sZKYGYDYLiCUCqMZbOqZKh9ai0ebeYU4xzvyFOOOHwfoEhKhTkpzv3onFBOo2cH", "lesson": "12", "name": "\u901a\u4fe1", "url": "course/resource/\u6b7b\u9501\u7b2c\u4e8c\u5355\u5143/", "learn_times": "2", "add_time_0": "2021/11/12", "add_time_1": "23:46", "initial-add_time_0": "2021/11/12", "initial-add_time_1": "23:46", "_addanother": "\u4fdd\u5b58\u5e76\u589e\u52a0\u53e6\u4e00\u4e2a"}
+INFO 2021-11-12 23:46:47 127.0.0.1 akaduo /xadmin/course/video/add/ GET None
+INFO 2021-11-12 23:46:48 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:46:52 127.0.0.1 akaduo /course/info/3/ GET None
+INFO 2021-11-12 23:46:52 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:46:52 127.0.0.1 akaduo /media/courses/2021/11/english.jpg GET None
+INFO 2021-11-12 23:46:55 127.0.0.1 akaduo /course/video/6/ GET None
+INFO 2021-11-12 23:46:55 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:46:55 127.0.0.1 akaduo /media/course/resource/死锁第一单元/幻灯片1.PNG GET None
+INFO 2021-11-12 23:46:55 127.0.0.1 akaduo /media/course/resource/死锁第一单元/幻灯片2.PNG GET None
+INFO 2021-11-12 23:46:55 127.0.0.1 akaduo /media/course/resource/死锁第一单元/幻灯片4.PNG GET None
+INFO 2021-11-12 23:46:55 127.0.0.1 akaduo /media/course/resource/死锁第一单元/幻灯片3.PNG GET None
+INFO 2021-11-12 23:46:59 127.0.0.1 akaduo /course/video/6/ POST {"page": "2"}
+INFO 2021-11-12 23:47:00 127.0.0.1 akaduo /course/video/6/ POST {"page": "3"}
+INFO 2021-11-12 23:47:00 127.0.0.1 akaduo /course/video/6/ POST {"page": "4"}
+INFO 2021-11-12 23:47:02 127.0.0.1 akaduo /course/video/7/ GET None
+INFO 2021-11-12 23:47:02 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:47:02 127.0.0.1 akaduo /media/course/resource/死锁第二单元/幻灯片2.PNG GET None
+INFO 2021-11-12 23:47:02 127.0.0.1 akaduo /media/course/resource/死锁第二单元/幻灯片1.PNG GET None
+INFO 2021-11-12 23:47:04 127.0.0.1 akaduo /course/video/7/ POST {"page": "2"}
+INFO 2021-11-12 23:47:08 127.0.0.1 akaduo /course/video/7/ POST {"page": "1"}
+INFO 2021-11-12 23:47:28 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:47:28 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:47:29 127.0.0.1 akaduo /course/list/ GET None
+INFO 2021-11-12 23:47:29 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:47:29 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:47:30 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:47:34 127.0.0.1  /logout/ GET None
+INFO 2021-11-12 23:47:34 127.0.0.1  / GET None
+INFO 2021-11-12 23:48:11 127.0.0.1  /xadmin/users/banner/ GET None
+INFO 2021-11-12 23:48:12 127.0.0.1  /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:48:18 127.0.0.1 akaduo /xadmin/users/banner/ POST {"csrfmiddlewaretoken": "aqy6lsLPjeorpqeGyDmnBvtzcTKrjEoN9v8RVrB09aC4Ts5EQlSmbgfOpgl1wsCA", "username": "akaduo", "password": "akaduo123", "this_is_the_login_form": "1", "next": "/xadmin/users/banner/"}
+INFO 2021-11-12 23:48:18 127.0.0.1 akaduo /xadmin/users/banner/ GET None
+INFO 2021-11-12 23:48:19 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:48:24 127.0.0.1 akaduo /xadmin/users/banner/4/update/ GET None
+INFO 2021-11-12 23:48:24 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:48:24 127.0.0.1 akaduo /media/banner/202110/2.jpg GET None
+INFO 2021-11-12 23:48:41 127.0.0.1 akaduo /xadmin/users/banner/ GET None
+INFO 2021-11-12 23:48:51 127.0.0.1 akaduo /xadmin/operation/usercourse/ GET None
+INFO 2021-11-12 23:48:51 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:49:36 127.0.0.1 akaduo /xadmin/operation/usercourse/ GET None
+INFO 2021-11-12 23:49:37 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:50:02 127.0.0.1 akaduo / GET None
+INFO 2021-11-12 23:50:02 127.0.0.1 akaduo /media/image/default.png GET None
+INFO 2021-11-12 23:50:02 127.0.0.1 akaduo /media/banner/202110/1.jpg GET None
+INFO 2021-11-12 23:50:07 127.0.0.1  /logout/ GET None
+INFO 2021-11-12 23:50:07 127.0.0.1  / GET None
+INFO 2021-11-12 23:50:09 127.0.0.1  /register/ GET None
+INFO 2021-11-12 23:50:09 127.0.0.1  /captcha/image/84688763c7b38f6ca305defc0f8e3d0f1b960497/ GET None
+INFO 2021-11-12 23:50:12 127.0.0.1  /register/ GET None
+INFO 2021-11-12 23:50:12 127.0.0.1  /captcha/image/fed876aa9ad297372e1461705d0146fe9e23a505/ GET None
+INFO 2021-11-12 23:50:31 127.0.0.1  /xadmin/users/banner/ GET None
+INFO 2021-11-12 23:50:31 127.0.0.1  /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:50:38 127.0.0.1 akaduo /xadmin/users/banner/ POST {"csrfmiddlewaretoken": "vSZLVz7OIsZrVKL4e5wtvHTPI7IrTQgopV6rMQlhggq3zBAeq9Q5EeiSEAEFcVRi", "username": "akaduo", "password": "akaduo123", "this_is_the_login_form": "1", "next": "/xadmin/users/banner/"}
+INFO 2021-11-12 23:50:38 127.0.0.1 akaduo /xadmin/users/banner/ GET None
+INFO 2021-11-12 23:50:39 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-12 23:53:00 127.0.0.1 akaduo /login/ GET None
+INFO 2021-11-12 23:53:01 127.0.0.1 akaduo /login/ GET None
+INFO 2021-11-12 23:54:49 127.0.0.1 akaduo /login/ GET None
+INFO 2021-11-12 23:54:57 127.0.0.1 akaduo /register/ GET None
+INFO 2021-11-12 23:54:58 127.0.0.1 akaduo /captcha/image/b74a3e3225ebb9b5e54167b97bc12f4c2b1ecc59/ GET None
+INFO 2021-11-12 23:55:32 127.0.0.1 akaduo /register/ GET None
+INFO 2021-11-12 23:55:33 127.0.0.1 akaduo /captcha/image/fb989d2c07621b9b3ce63cef242273f272e2fde6/ GET None
+INFO 2021-11-12 23:55:34 127.0.0.1 akaduo /login/ GET None
+INFO 2021-11-12 23:55:59 127.0.0.1 akaduo /register/ GET None
+INFO 2021-11-12 23:56:00 127.0.0.1 akaduo /captcha/image/2abbfc5ca430cc1a387a7e4872ff950cbcfbb4b6/ GET None
+INFO 2021-11-12 23:56:02 127.0.0.1 akaduo /register/ GET None
+INFO 2021-11-12 23:56:02 127.0.0.1 akaduo /captcha/image/23b3f5ed62c9a69cf70268a222656db5ccbd3426/ GET None
+INFO 2021-11-12 23:56:26 127.0.0.1 akaduo /register/ GET None
+INFO 2021-11-12 23:56:27 127.0.0.1 akaduo /captcha/image/f344fd6b37f502eca26c98c539a7317f0631f697/ GET None
+INFO 2021-11-13 00:02:08 127.0.0.1 akaduo /register/ POST {"csrfmiddlewaretoken": "i6CwsfkDkxu6ikLD9SN8W0624TLo2rGp35gIzqiRRADdFA34pOq1Mrktg07kqBZp", "email": "", "password": "", "captcha_0": "f344fd6b37f502eca26c98c539a7317f0631f697", "captcha_1": ""}
+INFO 2021-11-13 00:02:08 127.0.0.1 akaduo /captcha/image/9b7e9cff1e5c2982959cbc10075e30089f55b13b/ GET None
+INFO 2021-11-13 00:02:11 127.0.0.1 akaduo /register/ POST {"csrfmiddlewaretoken": "gc346k0VC1ci57CdJQgYLlIZAlttkjqq1bHgdvY994lpsnUEZMTRBMWqMsPpItJq", "email": "", "password": "", "captcha_0": "9b7e9cff1e5c2982959cbc10075e30089f55b13b", "captcha_1": ""}
+INFO 2021-11-13 00:02:12 127.0.0.1 akaduo /captcha/image/a74705998a8682863f306bd9a02965e10ea8ba2d/ GET None
+INFO 2021-11-13 00:02:15 127.0.0.1 akaduo /login/ GET None
+INFO 2021-11-13 00:02:17 127.0.0.1 akaduo /login/ POST {"csrfmiddlewaretoken": "zp5lqOag8l7iz3lhsR1zJTJZh4kUaFzGkoJxxZ8uFogpWjDIINEszkXqtbGQyPSG", "username": "", "password": ""}
+INFO 2021-11-13 00:02:20 127.0.0.1 akaduo /login/ POST {"csrfmiddlewaretoken": "cpMHmkg8Ua1CQ2Cq6FDCtwgATn6aclGXXoqTtvemrdaJdiURmBgvjXu15us6AvZX", "username": "123", "password": "123"}
+INFO 2021-11-13 00:02:26 127.0.0.1 akaduo /login/ POST {"csrfmiddlewaretoken": "jBYqhayJI4ydNxyDVufNhYj7wI0LIkdu4ACColwXf7HkaNQ4bqSG7pxyIPmH6uwu", "username": "12345", "password": "12345"}
+INFO 2021-11-13 00:02:30 127.0.0.1 akaduo /register/ GET None
+INFO 2021-11-13 00:02:30 127.0.0.1 akaduo /captcha/image/4c370ff304eda57457cc77bb65c3d319b1020ed8/ GET None
+INFO 2021-11-13 00:26:58 127.0.0.1 akaduo /register/ GET None
+INFO 2021-11-13 00:26:58 127.0.0.1 akaduo /captcha/image/4e48c20632e27b489c95f5152800479cbb63e425/ GET None
+INFO 2021-11-13 00:27:02 127.0.0.1 akaduo /register/ POST {"csrfmiddlewaretoken": "RrQTspGPTC9CLIU5S9z0bHBZI62UHSOICqu5zAE3qFiJ8Ycw85cT18PqUdoQ527I", "email": "12312312312", "password": "12312312", "captcha_0": "4e48c20632e27b489c95f5152800479cbb63e425", "captcha_1": ""}
+INFO 2021-11-13 00:27:03 127.0.0.1 akaduo /captcha/image/ed3c5cb1af9905dd5e2b87bcb684d0c4f8a55e98/ GET None
+INFO 2021-11-13 00:27:14 127.0.0.1 akaduo /register/ POST {"csrfmiddlewaretoken": "MadnaikIp6hvu19eZSXBOQR4FXua00XBx9RzhtiWW9qCRhrFfOAuEh5vR4Q6oagB", "email": "B19030929", "password": "1234567", "captcha_0": "ed3c5cb1af9905dd5e2b87bcb684d0c4f8a55e98", "captcha_1": ""}
+INFO 2021-11-13 00:27:15 127.0.0.1 akaduo /captcha/image/093c86864750597db808c1a8d3b13579b4eddbab/ GET None
+INFO 2021-11-13 00:27:23 127.0.0.1 akaduo /register/ POST {"csrfmiddlewaretoken": "2PNZm8LPbNbibEXWpUaJRN1jAVlzwU4yNOrbtjJ3IQkpyUfnFQNCHefKM2HvU4ny", "email": "B19030929", "password": "", "captcha_0": "093c86864750597db808c1a8d3b13579b4eddbab", "captcha_1": ""}
+INFO 2021-11-13 00:27:24 127.0.0.1 akaduo /register/ POST {"csrfmiddlewaretoken": "2PNZm8LPbNbibEXWpUaJRN1jAVlzwU4yNOrbtjJ3IQkpyUfnFQNCHefKM2HvU4ny", "email": "B19030929", "password": "", "captcha_0": "093c86864750597db808c1a8d3b13579b4eddbab", "captcha_1": ""}
+INFO 2021-11-13 00:27:24 127.0.0.1 akaduo /captcha/image/df167c8e7c84999d537441a1549d4de8c10b2070/ GET None
+INFO 2021-11-13 00:28:41 127.0.0.1 akaduo /register/ POST {"csrfmiddlewaretoken": "i3PiWpLMW6GTO4Lb6xXHkHHCDZOGWZJW32tu3AJ0t9P0bk3CmtAAa8V3P6aCk92W", "email": "B190309291", "password": "", "captcha_0": "df167c8e7c84999d537441a1549d4de8c10b2070", "captcha_1": ""}
+INFO 2021-11-13 00:28:41 127.0.0.1 akaduo /captcha/image/cdbc25fcddd9a73f61c7aebc389e9d24a139e787/ GET None
+INFO 2021-11-13 00:29:09 127.0.0.1 akaduo /register/ POST {"csrfmiddlewaretoken": "Ze5xbPheYNfk3dvoZhQ1bOQplpOz5orvKdJJi0fsvQorqtNPfdtU1f4QxwavtyKv", "email": "B19030929", "password": "123456", "captcha_0": "cdbc25fcddd9a73f61c7aebc389e9d24a139e787", "captcha_1": "XXSU"}
+INFO 2021-11-13 00:29:10 127.0.0.1 akaduo /captcha/image/dcd82d0b5220e4741365544da70cbbaf202356aa/ GET None
+INFO 2021-11-13 00:33:56 127.0.0.1 akaduo /register/ POST {"csrfmiddlewaretoken": "PTJrVUJzseYfnmDKbqDyxZ2WrZ9o8KrjASnD25HNZh7mKCVbrmgrnqgnD6vkwUKj", "email": "", "password": "12345", "captcha_0": "dcd82d0b5220e4741365544da70cbbaf202356aa", "captcha_1": ""}
+INFO 2021-11-13 00:33:57 127.0.0.1 akaduo /captcha/image/58d60fee088f629ed571ca3f7e80274828d6e24a/ GET None
+INFO 2021-11-13 00:34:19 127.0.0.1 akaduo /register/ POST {"csrfmiddlewaretoken": "fsAHpXhb1S3nLMAWTQCWDjhCQsrNCuJA0reTw8fpyVcu82Sn9MfPtKv32zNJ0E2A", "email": "B19030930", "password": "12345", "captcha_0": "58d60fee088f629ed571ca3f7e80274828d6e24a", "captcha_1": ""}
+INFO 2021-11-13 00:34:19 127.0.0.1 akaduo /captcha/image/1495fd417ef89045e49d8d47a57aa8dbef8205f3/ GET None
+INFO 2021-11-13 00:37:34 127.0.0.1 akaduo /register/ POST {"csrfmiddlewaretoken": "VqzMyTzKs3w8iy1KoKEkNqig74BEF4mhGpdYF4xYZ6FfFOjbEGhdDRwHjbXA3eFh", "email": "", "password": "", "captcha_0": "1495fd417ef89045e49d8d47a57aa8dbef8205f3", "captcha_1": ""}
+INFO 2021-11-13 00:37:35 127.0.0.1 akaduo /captcha/image/da7d65f2167c8396a683790a656e39ea8517d256/ GET None
+INFO 2021-11-13 00:38:33 127.0.0.1 akaduo /register/ POST {"csrfmiddlewaretoken": "jNqaNZcaARDrnHeztsYVYGEL5PkgL9zj4M4mUaao7UMyKXw0JoBOO7SchWGc9jSj", "email": "", "password": "", "captcha_0": "da7d65f2167c8396a683790a656e39ea8517d256", "captcha_1": ""}
+INFO 2021-11-13 00:38:33 127.0.0.1 akaduo /captcha/image/894ff04a0bc48349f30b47e54692ca95bb06432d/ GET None
+INFO 2021-11-13 00:38:34 127.0.0.1 akaduo /register/ POST {"csrfmiddlewaretoken": "FtpLQLa9dNCING83oDbsqr5XamHidhSoqs3XXW8nKQLPaWquEzOlgSjomt3eBrbo", "email": "", "password": "", "captcha_0": "894ff04a0bc48349f30b47e54692ca95bb06432d", "captcha_1": ""}
+INFO 2021-11-13 00:38:35 127.0.0.1 akaduo /captcha/image/c996931dcf9ca919d9a9ec94f66372d6e30f7065/ GET None
+INFO 2021-11-13 00:38:38 127.0.0.1 akaduo /register/ POST {"csrfmiddlewaretoken": "FtpLQLa9dNCING83oDbsqr5XamHidhSoqs3XXW8nKQLPaWquEzOlgSjomt3eBrbo", "email": "", "password": "", "captcha_0": "894ff04a0bc48349f30b47e54692ca95bb06432d", "captcha_1": ""}
+INFO 2021-11-13 00:38:38 127.0.0.1 akaduo /captcha/image/f03d3834cc93bd17ca52b850b9e5c47edf5262f6/ GET None
+INFO 2021-11-13 00:38:50 127.0.0.1 akaduo /register/ POST {"csrfmiddlewaretoken": "L48H6o04ANbwj5iO5aBDIFRES0PUaciNw3MTdzYi7QkDGlAfl6ewy65547bQymBN", "email": "", "password": "1", "captcha_0": "f03d3834cc93bd17ca52b850b9e5c47edf5262f6", "captcha_1": ""}
+INFO 2021-11-13 00:38:51 127.0.0.1 akaduo /captcha/image/7614d3320c4014be08ca372ffd0f9e673be758d8/ GET None
+INFO 2021-11-13 00:38:57 127.0.0.1 akaduo /register/ POST {"csrfmiddlewaretoken": "fJD6rVpgCujQCcU8DKAoa1r7LGxHU7Cr0Ihiy6nu9xsXZsczTGdh0sFyXNTDihVr", "email": "", "password": "123123123123123123123123123123123123", "captcha_0": "7614d3320c4014be08ca372ffd0f9e673be758d8", "captcha_1": ""}
+INFO 2021-11-13 00:38:57 127.0.0.1 akaduo /captcha/image/f3c88c7314a4ee37e2aa9e1eef200c008e9a66a6/ GET None
+INFO 2021-11-13 00:40:10 127.0.0.1 akaduo /login/ GET None
+INFO 2021-11-13 00:40:12 127.0.0.1 akaduo /register/ GET None
+INFO 2021-11-13 00:40:12 127.0.0.1 akaduo /captcha/image/5cfdde7c3812f1063b1085e5e08b2c21d6ae0b71/ GET None
+INFO 2021-11-13 00:40:13 127.0.0.1 akaduo /login/ GET None
+INFO 2021-11-13 00:40:14 127.0.0.1 akaduo /login/ POST {"csrfmiddlewaretoken": "ESJ03kzIAa3h88yrbuQcQWDjWnouP92bpRncavxW7dcovoQSrqt5GnRK8uKqdjlb", "username": "", "password": ""}
+INFO 2021-11-13 00:40:18 127.0.0.1 akaduo /login/ POST {"csrfmiddlewaretoken": "LWnJSNmjWD2Vr267nOkZ7ZnDIHAFUEuZwV1VZYkxtGb2OioyDKXSXqB4UOWBiONZ", "username": "1231", "password": ""}
+INFO 2021-11-13 00:40:20 127.0.0.1 akaduo /login/ POST {"csrfmiddlewaretoken": "WBA0cfPbRKA1Rc4SgzrCxRCDxJatJr1vHAecjqNpoNJ8esmjwv4vniQ4JQwp7Bkv", "username": "", "password": "123123123"}
+INFO 2021-11-13 00:40:23 127.0.0.1 akaduo /login/ POST {"csrfmiddlewaretoken": "0AlLZnLDOZoGjjFFSnbvTSTv16Eim6q1LzZX6yJRl2xNGzX68jOoJj7Wdd0eKgJ1", "username": "", "password": "123123123"}
+INFO 2021-11-13 00:40:28 127.0.0.1 akaduo /register/ GET None
+INFO 2021-11-13 00:40:29 127.0.0.1 akaduo /captcha/image/d49d6520d898e23725ded5a8a74f7884f2b0f67e/ GET None
+INFO 2021-11-13 00:41:37 127.0.0.1 akaduo /xadmin/xadmin/log/ GET None
+INFO 2021-11-13 00:41:37 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-13 00:41:41 127.0.0.1 akaduo /xadmin/organization/citydict/ GET None
+INFO 2021-11-13 00:41:41 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-13 00:41:42 127.0.0.1 akaduo /xadmin/organization/teacher/ GET None
+INFO 2021-11-13 00:41:43 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-13 00:41:44 127.0.0.1 akaduo /xadmin/organization/courseorg/ GET None
+INFO 2021-11-13 00:41:44 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
+INFO 2021-11-13 00:41:45 127.0.0.1 akaduo /xadmin/organization/citydict/ GET None
+INFO 2021-11-13 00:41:46 127.0.0.1 akaduo /xadmin/jsi18n/ GET None

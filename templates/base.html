@@ -59,20 +59,20 @@
             <div class="middle">
                 <div class="wp">
                     <a href="/"><img class="fl" src="{% static 'images/logo.jpg' %}"/></a>
-                    <div class="searchbox fr">
-                        <div class="selectContainer fl">
-                            <span class="selectOption" id="jsSelectOption" data-value="course">
-                                公开课
-                            </span>
-                            <ul class="selectMenu" id="jsSelectMenu">
-                                <li data-value="course">公开课</li>
-                                <li data-value="org">课程机构</li>
-                                <li data-value="teacher">授课老师</li>
-                            </ul>
-                        </div>
-                        <input id="search_keywords" class="fl" type="text" value="" placeholder="请输入搜索内容"/>
-                        <img class="search_btn fr" id="jsSearchBtn" src="{% static 'images/search_btn.png' %}"/>
-                    </div>
+{#                    <div class="searchbox fr">#}
+{#                        <div class="selectContainer fl">#}
+{#                            <span class="selectOption" id="jsSelectOption" data-value="course">#}
+{#                                公开课#}
+{#                            </span>#}
+{#                            <ul class="selectMenu" id="jsSelectMenu">#}
+{#                                <li data-value="course">公开课</li>#}
+{#                                <li data-value="org">课程机构</li>#}
+{#                                <li data-value="teacher">授课老师</li>#}
+{#                            </ul>#}
+{#                        </div>#}
+{#                        <input id="search_keywords" class="fl" type="text" value="" placeholder="请输入搜索内容"/>#}
+{#                        <img class="search_btn fr" id="jsSearchBtn" src="{% static 'images/search_btn.png' %}"/>#}
+{#                    </div>#}
                 </div>
             </div>
 
@@ -88,11 +88,11 @@
                                     公开课<img class="hot" src="{% static 'images/nav_hot.png' %}">
                                 </a>
                             </li>
-                            <li {% if request.path|slice:'12' == '/org/teacher' %}class="active"{% endif %}>
-                                <a href="{% url 'org:teacher_list' %}">授课教师</a>
-                            </li>
-                            <li {% if request.path|slice:'9' == '/org/list' %}class="active" {% endif %}><a
-                                    href="{% url 'org:org_list' %}">授课机构</a></li>
+{#                            <li {% if request.path|slice:'12' == '/org/teacher' %}class="active"{% endif %}>#}
+{#                                <a href="{% url 'org:teacher_list' %}">授课教师</a>#}
+{#                            </li>#}
+{#                            <li {% if request.path|slice:'9' == '/org/list' %}class="active" {% endif %}><a#}
+{#                                    href="{% url 'org:org_list' %}">授课机构</a></li>#}
                         </ul>
                     </div>
                 </div>
@@ -138,9 +138,6 @@
 
 <section>
     <ul class="sidebar">
-        <!--<li class="qq">
-            <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=2023525077&site=qq&menu=yes"></a>
-        </li>-->
         <li class="totop"></li>
     </ul>
 </section>

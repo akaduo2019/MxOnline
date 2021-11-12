@@ -645,12 +645,3 @@ INFO 2021-11-13 00:41:44 127.0.0.1 akaduo /xadmin/organization/courseorg/ GET No
 INFO 2021-11-13 00:41:44 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
 INFO 2021-11-13 00:41:45 127.0.0.1 akaduo /xadmin/organization/citydict/ GET None
 INFO 2021-11-13 00:41:46 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
-INFO 2021-11-13 01:08:39 127.0.0.1 akaduo / GET None
-INFO 2021-11-13 01:08:39 127.0.0.1 akaduo /media/banner/202110/1.jpg GET None
-INFO 2021-11-13 01:08:39 127.0.0.1 akaduo /media/banner/202110/2.jpg GET None
-INFO 2021-11-13 01:08:39 127.0.0.1 akaduo /media/image/default.png GET None
-INFO 2021-11-13 01:08:39 127.0.0.1 akaduo /media/courses/2021/11/xdf2.jpg GET None
-INFO 2021-11-13 01:08:39 127.0.0.1 akaduo /media/courses/2021/11/english.jpg GET None
-INFO 2021-11-13 01:08:49 127.0.0.1 akaduo /xadmin/ GET None
-INFO 2021-11-13 01:08:49 127.0.0.1 akaduo /xadmin/jsi18n/ GET None
-INFO 2021-11-13 01:08:51 127.0.0.1 akaduo /xadmin/ GET None

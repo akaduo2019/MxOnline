@@ -50,6 +50,27 @@ class AdminImageWidget(forms.FileInput):
                          (value.url, label, value.url, _('Change:')))
         output.append(super(AdminImageWidget, self).render(name, value, attrs))
         return mark_safe(u''.join(output))
+        # # 此处修改源码，将图片改成能批量上传
+        # output = []
+        # if value and hasattr(value, "url"):
+        #     label = self.attrs.get('label', name)
+        #     output.append(
+        #         '<a href="%s" target="_blank" title="%s" data-gallery="gallery"><img src="%s" class="field_img"/></a><br/>%s ' %
+        #         (value.url, label, value.url, _('Change:')))
+        # output.append(super(AdminImageWidget, self).render(name, value, attrs))
+        #
+        # """
+        # 因为前端页面中选择按钮变多选,需要在对应标签里添加上multiple="multiple"
+        # 而这里的output就是xadmin后端生成的html所需要的标签的文本流
+        # 所以我们只需要在output的对应位置用代码添加上这一条件
+        # """
+        # if self.attrs['label'] and self.attrs['label'] == '访问截图':
+        #     if len(output) > 1:
+        #         output[-1] = output[-1][:-2] + ' multiple="multiple">'
+        #     else:
+        #         output[0] = output[0][:-2] + ' multiple="multiple">'
+        # return mark_safe(u''.join(output))
+
 
 
 class ModelDetailPlugin(BaseAdminPlugin):

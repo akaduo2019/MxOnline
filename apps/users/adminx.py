@@ -18,7 +18,7 @@ class GlobalSettings(object):
     # 修改title
     site_title = 'Mooc后台管理界面'
     # 修改footer
-    site_footer = 'XXX无限公司'
+    site_footer = 'Mooc'
     # 收起菜单
     menu_style = 'accordion'
 

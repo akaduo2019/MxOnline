@@ -181,7 +181,10 @@ class VideoPlayView(LoginRequiredMixin, View):
         all_resources = CourseResource.objects.filter(course=course)
 
         # PPT数量
-        page = ['1','2','3','4','5']
+        page = []
+        for i in range(0, video.learn_times):
+            page.append(str(i+1))
+
         return render(request,'course-play.html' ,{
             'course':course,
             'all_resources':all_resources,
@@ -189,3 +192,6 @@ class VideoPlayView(LoginRequiredMixin, View):
             'video':video,
             'page':page,
         })
+
+    def post(self, request, video_id):
+        return HttpResponse('')

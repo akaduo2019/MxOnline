@@ -54,11 +54,13 @@
                     <div class="slides">
                         {% for i in page %}
                             <section>
-                            {% with 'PPT/通信与死锁/幻灯片'|add:i|add:'.PNG' as URL %}
-                               <img src="{% static URL %}" >
-                            {% endwith %}
+{#                                {% with 'PPT/通信与死锁/幻灯片'|add:i|add:'.PNG' as URL %}#}
+{#                                   <img src="{% static URL %}" >#}
+{#                                {% endwith %}#}
+                                <img src="/media/{{video.url}}幻灯片{{ i }}.PNG" >
                             </section>
                         {% endfor %}
+
                     </div>
                 </div>
 
@@ -70,16 +72,20 @@
                     Reveal.initialize({
                         hash: true,
                         embedded: true,
+                        slideNumber: true,
                         plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
                     });
                     //翻页事件监听
                     Reveal.addEventListener( 'slidechanged', function( event ) {
-                         $.ajax({
+                         $.ajaxSetup({
+                                headers: { "X-CSRFToken": '{{csrf_token}}' }
+                            });
+                        $.ajax({
                     cache: false,
                     type: "POST",
                     dataType:'json',
                     url:"",
-                    {#data:,#}
+                    data:{'page':event.indexh+1},
                     async: true,
                     });
                     });
@@ -92,8 +98,8 @@
                             <ul class="course-menu clearfix">
                                 <li><a class="ui-tabs-active active" id="learnOn"
                                        href="{% url 'course:course_info' course.id %}"><span>章节</span></a></li>
-                                <li><a id="commentOn" class=""
-                                       href="{% url 'course:course_comments' course.id %}"><span>评论</span></a></li>
+{#                                <li><a id="commentOn" class=""#}
+{#                                       href="{% url 'course:course_comments' course.id %}"><span>评论</span></a></li>#}
                             </ul>
                         </div>
 {#                        <div id="notice" class="clearfix">#}
@@ -128,18 +134,18 @@
                     <div class="aside r">
                         <div class="bd">
 
-                            <div class="box mb40">
-                                <h4>资料下载</h4>
-                                <ul class="downlist">
-                                    {% for course_resource in course.courseresource_set.get_queryset %}
-                                        <li>
-                                            <span><i
-                                                    class="aui-iconfont aui-icon-file"></i>&nbsp;&nbsp;{{ course_resource.name }}</span>
-                                            <a href="{{ MEDIA_URL }}{{ course_resource.download }}" class="downcode"
-                                               target="_blank" download="" data-id="274" title="">下载</a>
-                                        </li>
-                                    {% endfor %}
-                                </ul>
+{#                            <div class="box mb40">#}
+{#                                <h4>资料下载</h4>#}
+{#                                <ul class="downlist">#}
+{#                                    {% for course_resource in course.courseresource_set.get_queryset %}#}
+{#                                        <li>#}
+{#                                            <span><i#}
+{#                                                    class="aui-iconfont aui-icon-file"></i>&nbsp;&nbsp;{{ course_resource.name }}</span>#}
+{#                                            <a href="{{ MEDIA_URL }}{{ course_resource.download }}" class="downcode"#}
+{#                                               target="_blank" download="" data-id="274" title="">下载</a>#}
+{#                                        </li>#}
+{#                                    {% endfor %}#}
+{#                                </ul>#}
                             </div>
                             <div class="box mb40">
                                 <h4>讲师提示</h4>
